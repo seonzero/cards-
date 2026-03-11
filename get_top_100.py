@@ -45,18 +45,22 @@ def get_top100_cards(date="2026-03-11"):
                 # 상세보기 버튼의 경로를 확인해야 합니다.
                 # 이미지 경로 예시: .../card/2749/card_img/... -> 여기서 2749가 ID
                 img_tag = el.select_one(".card_img img")
+                
                 if img_tag and 'src' in img_tag.attrs:
-                    src = img_tag['src']
+                    card_image = img_tag['src']  # 이미지 URL 저장
+
                     # URL에서 숫자(ID) 부분 추출
-                    card_id = src.split('/card/')[1].split('/')[0]
+                    card_id = card_image.split('/card/')[1].split('/')[0]
                     detail_url = f"https://www.card-gorilla.com/card/detail/{card_id}"
                 else:
-                    detail_url = "URL을 찾을 수 없음"
+                    card_image = ""
+                    detail_url = ""
 
                 card_data.append({
                     "name": name,
                     "corp": corp,
-                    "detail_url": detail_url
+                    "detail_url": detail_url,
+                    "card_image": card_image
                 })
                 
             except Exception as e:
