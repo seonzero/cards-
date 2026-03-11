@@ -1,3 +1,4 @@
+# 혜택의 카테고리와 상세내용을 딕셔너리 구조로 변경
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -10,49 +11,50 @@ def get_card_detail(detail_url):
     driver = webdriver.Chrome(options=options)
     driver.get(detail_url)
 
-    time.sleep(2)  # JS 렌더링 대기
+    # 렌더링 대기
+    time.sleep(2)
 
-    condition = driver.find_element(By.CSS_SELECTOR, 'div.bnf2')
-    fee = condition.find_element(By.CSS_SELECTOR, 'dd.in_out').text
-    before_month = condition.find_element(By.CSS_SELECTOR, 'dl:nth-child(2)').text
+    try:
+        condition = driver.find_element(By.CSS_SELECTOR, 'div.bnf2')
+        fee = condition.find_element(By.CSS_SELECTOR, 'dd.in_out').text
+        before_month = condition.find_element(By.CSS_SELECTOR, 'dl:nth-child(2)').text
+    except:
+        fee, before_month = "정보없음", "정보없음"
 
-    benefit_array = []
-
+    benefit_list = []
     benefit_elements = driver.find_elements(By.CSS_SELECTOR, "div.bene_area dl")
+    
     for idx, benefit in enumerate(benefit_elements):
         try:
-            if idx == len(benefit_elements) - 1:
-                break
-            if idx != 0:
-                # 클릭 전에 요소가 보이도록 스크롤
-                driver.execute_script("arguments[0].scrollIntoView(true);", benefit)
-                # 요소가 clickable할 때까지 대기
-                WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, "div.bene_area dl")))
-
-            benefit.click()
-            time.sleep(0.5)  # 짧은 클릭 후 렌더링 대기
-            main_title = benefit.find_element(By.CSS_SELECTOR, "dt p").text
-            sub_title = benefit.find_element(By.CSS_SELECTOR, "dt i").text
-            in_box = benefit.find_element(By.CSS_SELECTOR, "dd div.in_box")
-            detail_el = in_box.find_elements(By.CSS_SELECTOR, "p")
-            detail_content = ''
-            for element in detail_el:
-                detail_content += element.text.strip() + '\n'
+            # 마지막 요소가 광고인 경우 제외
+            if idx == len(benefit_elements) - 1: break
             
-            benefit_array.append({
-                main_title,
-                sub_title,
-                detail_content
-            })
+            driver.execute_script("arguments[0].scrollIntoView(true);", benefit)
             benefit.click()
             time.sleep(0.5)
+
+            # AI가 읽기 좋게 구조화 (Column / Description 형태)
+            main_title = benefit.find_element(By.CSS_SELECTOR, "dt p").text.strip()
+            sub_title = benefit.find_element(By.CSS_SELECTOR, "dt i").text.strip()
+            
+            detail_el = benefit.find_elements(By.CSS_SELECTOR, "dd div.in_box p")
+            detail_content = " ".join([e.text.strip() for e in detail_el])
+            
+            # 질문하신 형식에 맞춘 구조화
+            benefit_list.append({
+                "column": main_title,      # 혜택 종류 (예: 주유, 영화)
+                "sub_column": sub_title,   # 요약 혜택 (예: 10% 할인)
+                "description": detail_content # 상세 조건 설명
+            })
+            
+            benefit.click() # 다시 닫기
         except Exception as e:
-            print(f"[오류] 혜택 {idx+1} 클릭 또는 추출 실패: {e}")
+            continue
 
     driver.quit()
 
     return {
-        "fee": fee,
-        "before_month": before_month,
-        "benefits": benefit_array
+        "fee_info": fee,
+        "performance": before_month,
+        "benefits": benefit_list
     }
