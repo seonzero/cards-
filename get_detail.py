@@ -1,19 +1,24 @@
-# 혜택의 카테고리와 상세내용을 딕셔너리 구조로 변경
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 import time
 
+
 def get_card_detail(detail_url):
     options = webdriver.ChromeOptions()
     options.add_argument("--headless")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--disable-gpu")
+    options.add_argument("--window-size=1280,900")
     driver = webdriver.Chrome(options=options)
-    driver.get(detail_url)
+    wait = WebDriverWait(driver, 5)
 
-    # 렌더링 대기
+    driver.get(detail_url)
     time.sleep(2)
 
+    # 연회비 / 전월실적
     try:
         condition = driver.find_element(By.CSS_SELECTOR, 'div.bnf2')
         fee = condition.find_element(By.CSS_SELECTOR, 'dd.in_out').text
@@ -23,33 +28,51 @@ def get_card_detail(detail_url):
 
     benefit_list = []
     benefit_elements = driver.find_elements(By.CSS_SELECTOR, "div.bene_area dl")
-    
-    for idx, benefit in enumerate(benefit_elements):
-        try:
-            # 마지막 요소가 광고인 경우 제외
-            if idx == len(benefit_elements) - 1: break
-            
-            driver.execute_script("arguments[0].scrollIntoView(true);", benefit)
-            benefit.click()
-            time.sleep(0.5)
+    total = len(benefit_elements)
 
-            # AI가 읽기 좋게 구조화 (Column / Description 형태)
+    for idx in range(total - 1):  # 마지막은 광고 제외
+        # 매 루프마다 dl 목록 새로 가져오기 (클릭 후 DOM 변경 대응)
+        benefit_elements = driver.find_elements(By.CSS_SELECTOR, "div.bene_area dl")
+        benefit = benefit_elements[idx]
+
+        try:
             main_title = benefit.find_element(By.CSS_SELECTOR, "dt p").text.strip()
             sub_title = benefit.find_element(By.CSS_SELECTOR, "dt i").text.strip()
-            
-            detail_el = benefit.find_elements(By.CSS_SELECTOR, "dd div.in_box p")
-            detail_content = " ".join([e.text.strip() for e in detail_el])
-            
-            # 질문하신 형식에 맞춘 구조화
-            benefit_list.append({
-                "column": main_title,      # 혜택 종류 (예: 주유, 영화)
-                "sub_column": sub_title,   # 요약 혜택 (예: 10% 할인)
-                "description": detail_content # 상세 조건 설명
-            })
-            
-            benefit.click() # 다시 닫기
-        except Exception as e:
-            continue
+        except:
+            main_title, sub_title = "", ""
+
+        # 클릭해서 dd 생성 대기
+        try:
+            benefit.click()
+            # dd > div.in_box 가 실제로 DOM에 생길 때까지 대기
+            wait.until(EC.presence_of_element_located(
+                (By.CSS_SELECTOR, f"div.bene_area dl.on dd div.in_box")
+            ))
+        except:
+            pass
+
+        # 클릭 후 다시 해당 dl 가져오기
+        try:
+            benefit_elements = driver.find_elements(By.CSS_SELECTOR, "div.bene_area dl")
+            benefit = benefit_elements[idx]
+            detail_els = benefit.find_elements(By.CSS_SELECTOR, "dd div.in_box p")
+            detail_content = "\n".join([e.text.strip() for e in detail_els if e.text.strip()])
+        except:
+            detail_content = ""
+
+        benefit_list.append({
+            "column": main_title,
+            "sub_column": sub_title,
+            "description": detail_content
+        })
+
+        # 닫기 (다음 항목을 위해)
+        try:
+            benefit_elements = driver.find_elements(By.CSS_SELECTOR, "div.bene_area dl")
+            benefit_elements[idx].click()
+            time.sleep(0.2)
+        except:
+            pass
 
     driver.quit()
 
