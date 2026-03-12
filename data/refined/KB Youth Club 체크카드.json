@@ -1,0 +1,27 @@
+{
+  "card_name": "KB Youth Club 체크카드",
+  "company": "KB국민카드",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/2929/card_img/45849/2929card_1.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/2929",
+  "fee": "국내전용 없음 해외겸용 없음",
+  "required_performance": 200000,
+  "benefits": [
+    {
+      "category": "생활비",
+      "benefit_type": "discount_rate",
+      "benefit_value": 50,
+      "benefit_unit": "%",
+      "benefit_summary": "편의점 최대 50% 할인",
+      "raw_description": "[A팩] 6개 영역 최대 50% 할인\nOTT, APP, 여가, 교통, 편의점, 영화관"
+    },
+    {
+      "category": "쇼핑",
+      "benefit_type": "discount_rate",
+      "benefit_value": 50,
+      "benefit_unit": "%",
+      "benefit_summary": "쇼핑 최대 50% 할인",
+      "raw_description": "[B팩] 6개 영역 최대 50% 할인\n쇼핑 멤버십, 통신요금, 패션/라이프, 배달, 편의점, 데이트"
+    }
+  ]
+}

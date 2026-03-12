@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 import time
 
-def get_top100_cards(date="2026-03-11"):
+def get_top100_cards(date="2026-03-12"):
     url = f"https://www.card-gorilla.com/chart/check100?term=monthly&date={date}"
 
     options = Options()
