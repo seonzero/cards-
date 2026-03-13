@@ -1,0 +1,35 @@
+{
+  "card_name": "카드의정석 EVERYDAY CHECK",
+  "company": "우리카드",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/2742/card_img/36729/2742card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/2742",
+  "fee": "국내전용 없음 해외겸용 없음",
+  "required_performance": 0,
+  "benefits": [
+    {
+      "category": "기타",
+      "benefit_type": "mileage",
+      "benefit_value": 0.2,
+      "benefit_unit": "%",
+      "benefit_summary": "해외 가맹점 0.2% 적립",
+      "raw_description": "[기본 적립] 국내/해외 가맹점 0.2% 적립\n- 전월 실적 조건 없음, 적립한도 제한 없음\n- 해외 결제 시 별도의 수수료가 발생할 수 있으며, 해당 내용은 ‘해외 이용 안내’ 참조"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "mileage",
+      "benefit_value": 0.5,
+      "benefit_unit": "%",
+      "benefit_summary": "우리페이 0.5% 추가 적립",
+      "raw_description": "[추가 적립] 우리페이 0.5% 추가 적립\n- 전월 실적 30만원 이상 시 적립 제공\n- 1만원 미만 결제 건 적립 제외\n- 우리페이에 본 카드를 등록하여 온라인에서 결제 시 적립 제공\n- 모바일 단말을 이용한 오프라인 결제건(매장 내 QR, 바코드, 스마트폰 MST/NFC 기능 등) 적립 제외\n- 상품권·선불카드(선불전자 지급수단) 구매 및 충전 등의 이용금액 적립 제외"
+    },
+    {
+      "category": "생활비",
+      "benefit_type": "mileage",
+      "benefit_value": 1,
+      "benefit_unit": "%",
+      "benefit_summary": "생활소비 1% 특별 적립",
+      "raw_description": "[특별 적립] 생활소비 1% 특별 적립\n※ 전월 실적 30만원 이상 시 적립 제공\n※ 1만원 미만 결제 건 적립 제외\n※ ‘기본 적립’ 과 중복 적용 불가(‘특별 적립’ 우선 적용)"
+    }
+  ]
+}

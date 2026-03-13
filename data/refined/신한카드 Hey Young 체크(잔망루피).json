@@ -1,0 +1,107 @@
+{
+  "card_name": "신한카드 Hey Young 체크(잔망루피)",
+  "company": "신한카드",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/2891/card_img/44186/2891card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/2891",
+  "fee": "국내전용 없음 해외겸용 없음",
+  "required_performance": 200000,
+  "benefits": [
+    {
+      "category": "교통비",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "대중교통 5% 캐시백",
+      "raw_description": "대중교통 이용금액 5% 캐시백\n- 마을/시내/시외/공항버스/지하철(고속버스제외)\n- 후불교통기능을 이용한 터치(RF방식)거래시 서비스가 적용됩니다.\n- 월 최대 3천원 까지 캐시백 제공\n* 단, Tmoney 사용 금액은 캐시백이 제공되지 않습니다."
+    },
+    {
+      "category": "통신비",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 2000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "이동통신요금 2천원 캐시백",
+      "raw_description": "이동통신요금 자동납부 시 2천원 캐시백\n- 이동통신요금 : SKT, KT, LG U+\n- 건당 5만원 이상 자동납부 시 2천원 캐시백(월 1회 제공)\n* 순수 통신요금 결제금액의 자동납부만 대상입니다.\n* 약정금액 대납, 지점을 통한 월납, 알뜰폰은 캐시백이 제외됩니다."
+    },
+    {
+      "category": "여가비",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 5000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "CGV 영화 예매 5천원 캐시백",
+      "raw_description": "CGV 영화 예매 5천원 캐시백\n- 건당 2만원 이상 결제 시 5천원 캐시백(월 1회 제공)\n* CGV사이트/앱 직접 접속이용 또는 현장 결제시에 한하여 적용됩니다.\n* 기프트콘, 상품권 구매 또는 온라인 매점 등 영화 예매 이외의 건에 대해서는 서비스 적용되지 않습니다.\n* 영화 예매 전 영화관 내 매점 이용 시 할인서비스가 적용될 수 있으므로 유의하시기 바랍니다."
+    },
+    {
+      "category": "생활비",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 1000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "편의점 1천원 캐시백",
+      "raw_description": "편의점 1천원 캐시백\n- 편의점 : GS25, CU, 이마트24\n- 건당 1만원 이상 결제 시 1천원 캐시백(일 1회/월 5회 제공)\n* 오프라인 매장에 한하여 적용되며, 인터넷이나 모바일앱을 통한 온라인 거래는 캐시백이 적용되지 않습니다.\n* 온라인 매장, 백화점/할인점 등 입점 매장은 제외됩니다."
+    },
+    {
+      "category": "식비",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 1000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "카페 1천원 캐시백",
+      "raw_description": "카페 1천원 캐시백\n- 카페 : 스타벅스, 투썸플레이스, 이디야, 폴바셋, 메가MGC커피, 빽다방, 커피빈, 엔제리너스\n- 건당 1만원 이상 결제 시 1천원 캐시백(일 1회/월 5회 제공)\n* 스타벅스는 사이렌오더로 이용해도 캐시백이 적용됩니다.\n* 백화점, 할인점 등 입점 매장 및 해외 스타벅스 가맹점은 캐시백이 적용되지 않습니다."
+    },
+    {
+      "category": "식비",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 1000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "패스트푸드 1천원 캐시백",
+      "raw_description": "패스트푸드 1천원 캐시백\n- 패스트푸드 : KFC, 크리스피크림도넛, 배스킨라빈스\n- 건당 1만원 이상 결제 시 1천원 캐시백(일 1회/월 5회 제공)\n* 오프라인 매장에 한하여 캐시백이 적용되며, 백화점, 할인점 등 입점 매장 및 해외 가맹점은 캐시백이 적용되지 않습니다."
+    },
+    {
+      "category": "식비",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 1000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "배달앱 1천원 캐시백",
+      "raw_description": "배달앱 1천원 캐시백\n- 배달앱 : 땡겨요\n- 건당 1만원 이상 결제 시 1천원 캐시백(일 1회/월 5회 제공)\n* 땡겨요 앱에서 배달 관련 이용 시에만 캐시백이 적용되며, 온라인 충전 및 선물하기 이용 금액에는 적용되지 않습니다."
+    },
+    {
+      "category": "생활비",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 1000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "생활 가맹점 1천원 캐시백",
+      "raw_description": "생활 가맹점 1천원 캐시백\n- 생활 가맹점 : 올리브영, 다이소\n- 건당 1만원 이상 결제 시 1천원 캐시백(일 1회/월 5회 제공)\n* 백화점, 할인점 등 입점 매장은 캐시백이 적용되지 않으며, 다이소는 오프라인 매장에 한하여 캐시백이 적용됩니다."
+    },
+    {
+      "category": "기타",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 1000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "OTT 1천원 캐시백",
+      "raw_description": "OTT 1천원 캐시백\n- OTT : 넷플릭스, 디즈니플러스, 티빙\n- 건당 1만원 이상 결제 시 1천원 캐시백(일 1회/월 5회 제공)\n* 공식 홈페이지를 통한 정기결제(자동납부) 건에만 캐시백이 적용됩니다.\n(1회성 일반구매 결제, 구글 플레이/애플 앱스토어 등 앱마켓을 통한 인앱결제, 통신 요금 포함(합산) 결제 제외)"
+    },
+    {
+      "category": "쇼핑",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 1000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "온라인 쇼핑 1천원 캐시백",
+      "raw_description": ""
+    },
+    {
+      "category": "기타",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 1,
+      "benefit_unit": "%",
+      "benefit_summary": "간편결제 1% 캐시백",
+      "raw_description": ""
+    },
+    {
+      "category": "기타",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 1.2,
+      "benefit_unit": "%",
+      "benefit_summary": "해외 1.2% 캐시백",
+      "raw_description": "해외 전 가맹점(온라인포함) 1.2% 캐시백\n해외인출 1건 당 US $3 캐시백 제공"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "card_name": "더담은 체크카드",
+  "company": "MG새마을금고",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/2745/card_img/36739/2745card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/2745",
+  "fee": "국내전용 없음 해외겸용 없음",
+  "required_performance": 0,
+  "benefits": [
+    {
+      "category": "교육",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 2000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "학원 결제 시 2천원 할인",
+      "raw_description": "대상가맹점 결제 시 2천원 할인\n- 이용금액 건당 5만원 이상 시 적용\n- 전월 이용실적 50만원 이상 시 제공 (통합할인한도 적용)\n- 일 1회, 월 5회 한도\n- BC카드 가맹점업종 등록기준으로 제공합니다.\n- 학원 업종으로 등록된 가맹점에 한하여 할인캐시백이 제공됩니다.\n- 오프라인 대상 가맹점의 경우 오프라인 현장 결제 건에 한해서만 할인 캐시백이 적용됩니다. PG(인터넷 결제) 이용금액은 할인 제외\n- 온라인 대상 가맹점은 온라인 공식 홈페이지에서 결제한 금액에 한해서만 할인캐시백이 적용됩니다. (단, 오프라인 결제 시 학원업종일 경우 할인캐시백이 적용됨)"
+    },
+    {
+      "category": "교통비",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 1000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "주유 결제 시 1천원 할인",
+      "raw_description": "전국 주유소 및 충전소, 전기차충전소 결제 시 1천원 할인캐시백\n- 이용금액 건당 5만원 이상 시 적용\n- 전월 이용실적 50만원 이상 시 제공 (통합할인한도 적용)\n- 일 1회, 월 5회 한도\n- BC카드 가맹점업종 등록기준으로 제공합니다.\n- 전국 모든 주유소(LPG 충전소 포함) 및 전기차충전소 업종으로 등록된 가맹점에 한하여 할인 캐시백이 제공됩니다."
+    },
+    {
+      "category": "식비",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 1000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "음식점 결제 시 1천원 할인",
+      "raw_description": "음식점 업종 결제 시 1천원 할인캐시백\n- 이용금액 건당 2만원 이상 시 적용\n- 전월 이용실적 50만원 이상 시 제공 (통합할인한도 적용)\n- 일 1회, 월 3회 한도\n- BC카드 가맹점업종 등록기준으로 제공합니다.\n- 일반음식점(일반한식, 갈비전문점, 한정식, 일식회집, 중국음식, 서양음식) 업종으로 등록 된 가맹점에 한하여 할인캐시백이 제공됩니다.\n- 오프라인 가맹점에서 현장 결제한 금액에 한해서만 할인캐시백이 적용됩니다."
+    },
+    {
+      "category": "쇼핑",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 1000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "대상가맹점 결제 시 1천원 할인",
+      "raw_description": "대상가맹점 결제 시 1천원 할인\n- 건당 이용금액 3만원 이상 시 제공\n- 전월 이용실적 50만원 이상 시 제공 (통합할인한도 적용)\n- 월 3회 한도\n- 슈퍼마켓 가맹점 중 백화점 · 할인점 · 아울렛 · 쇼핑몰 · 공항 · 호텔 등 입점매장의 경우 할인 캐시백이 적용되지 않을 수 있습니다.\n- 오프라인 대상 가맹점의 경우, 오프라인 매장 결제 건에 한해서만 할인캐시백이 적용됩니다. (온라인 매장 이용 건 할인 대상 제외)"
+    },
+    {
+      "category": "생활비",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 500,
+      "benefit_unit": "KRW",
+      "benefit_summary": "편의점 결제 시 500원 할인",
+      "raw_description": "GS25, CU, 세븐일레븐, 이마트24 결제 시 500원 할인캐시백\n- 이용금액 건당 5천원 이상 시 적용\n- 전월 이용실적 50만원 이상 시 제공 (통합할인한도 적용)\n- 월 3회 한도\n- 백화점 · 할인점 · 아울렛 · 쇼핑몰 · 공항 · 호텔 등 입점매장의 경우 할인캐시백이 적용되지 않을 수 있습니다.\n- 오프라인 가맹점에서 현장 결제한 금액에 한해서만 할인캐시백이 적용됩니다."
+    },
+    {
+      "category": "기타",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "해외 수수료 면제",
+      "raw_description": "해외 서비스수수료, 현금(예금)인출수수료, 예금잔액조회수수료 면제"
+    }
+  ]
+}

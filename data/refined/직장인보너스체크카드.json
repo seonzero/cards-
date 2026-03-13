@@ -1,0 +1,99 @@
+{
+  "card_name": "직장인보너스체크카드",
+  "company": "KB국민카드",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/350/card_img/20594/350card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/350",
+  "fee": "국내전용 없음 해외겸용 없음",
+  "required_performance": 200000,
+  "benefits": [
+    {
+      "category": "기타",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 7000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "국세 지자체 7천원 환급",
+      "raw_description": "국세·지방세 7천원 환급할인\n- 건당 10만원 이상 시 7천원 환급할인 (월 1회)\n- 실적조건 : 전월 이용실적 30만원 이상\n- 최초 카드 발급 후 사용등록일로부터 60일간은 이용실적이 없는 경우에도 월간통합할인한도 5천원 이내에서\n할인 제공됩니다。\n보험료 2천원 환급할인\n- 건당 10만원 이상 시 2천원 환급할인 (월 1회)\n- 실적조건 : 전월 이용실적 30만원 이상"
+    },
+    {
+      "category": "교통비",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 50,
+      "benefit_unit": "KRW",
+      "benefit_summary": "GS칼텍스 주중 50원 환급",
+      "raw_description": "GS칼텍스 리터당 주중 50원, 주말 60원 환급할인\n- 건당 이용금액 10만원까지 할인 (월 이용금액 30만원까지 할인 적용)\n- 할인제외 : GS칼텍스 비제휴 주유소 이용금액 / LPG 이용금액\n- 실적조건 : 전월 이용실적 20만원 이상\n- GS칼텍스 본사 휘발유 고시가 기준 (경유, 등유는 휘발유가 기준으로 환산하여 적용)\n- 각 주유소별 유가 및 유류에 따라 할인액 차이가 발생할 수 있습니다.\n- 최초카드 발급 후 사용등록일로부터 60일간은 이용실적이 없는 경우에도 월간통합할인한도 5천원 이내에서\n할인 제공됩니다."
+    },
+    {
+      "category": "기타",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 20000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "엔진오일교환 할인",
+      "raw_description": "스피드메이트 엔진오일교환 2만원 현장할인 및 정비 할인\n- 엔진오일 교환 (연 1회)\n엔진오일은 ZIC-A Bulk 기준\n수입차, 1.4톤 이상 차량은 제외되며, 기존 제품 이외 사용 또는 4L 초과 시 추가요금 발생\n타 할인카드 및 쿠폰 중복 사용 불가\n실적조건 : 전월 이용실적 30만원 이상\n- 정비공임 10% 할인\n- 무료안전점검서비스\n- 스피드메이트 엔진오일교환 및 정비 할인 , SK렌터카 할인은 월간 통합할인한도 예외 적용 서비스입니다.\n- 상기 서비스에 대한 문의사항은 스피드메이트 홈페이지(www.speedmate.com)를 확인하시거나\n콜센터(1600-1600)로 문의하여 주시기 바랍니다."
+    },
+    {
+      "category": "여가비",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "SK렌터카 할인",
+      "raw_description": "SK렌터카 할인 (연 2회)\n- SK렌터카 방문 시 현장할인 (연 2회)\n- 전국 지점 가능하며, 전 차종 가능\n- 월간 통합할인한도 적용 제외\n- 자세한 내용은 SK렌터카 홈페이지(www.skcarrental.com)를 확인하시거나 고객센터(1599-9111)로 문의하여\n주시기 바랍니다."
+    },
+    {
+      "category": "쇼핑",
+      "benefit_type": "discount_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "백화점 5% 할인",
+      "raw_description": "롯데·현대·신세계백화점 5% 환급할인\n- 이용금액 건당 5만원~10만원까지 할인 적용(1회 최대 할인금액 5,000원)\n- 실적조건 : 전월 이용실적 50만원 이상"
+    },
+    {
+      "category": "식비",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 10,
+      "benefit_unit": "%",
+      "benefit_summary": "아웃백 10% 환급",
+      "raw_description": "아웃백 10% 환급할인\n- 이용금액 건당 3만원~10만원까지 할인 적용(1회 최대 할인금액 10,000원)\n- 할인제외 : 할인대상 가맹점이 백화점 및 대형할인점에 입점한 점포인 경우\n- 실적조건 : 전월 이용실적 20만원 이상\n- 최초카드 발급 후 사용등록일로부터 60일간은 이용실적이 없는 경우에도 월간통합할인한도 5천원 이내에서\n할인 제공됩니다."
+    },
+    {
+      "category": "교통비",
+      "benefit_type": "discount_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "대중교통 5% 청구할인",
+      "raw_description": "버스·지하철 5% 청구할인\n- 월 이용금액 2만원까지 할인\n- 대중교통 할인 대상 : RF교통기관 업종 (KB국민카드 가맹점 업종 기준)\n- 실적 조건 : 전월 이용실적 30만원 이상\n- 실제 카드이용일이 아닌 이메일 이용내역서상 기재된 이용일 기준으로 할인 적용 됩니다."
+    },
+    {
+      "category": "통신비",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 1000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "이동통신요금 1천원 환급",
+      "raw_description": "이동통신요금 1,000원 환급할인 (월 1회)\n- 자동이체금액 건당 5만원 이상 이용 시 1천원 정액할인 (월 1회)\n- 제공조건 : 해당 카드로 3대 이동통신사(SKT, KT, LG U+) 자동이체 등록\n- 할인 제외 : 유무선 통신요금 통합 청구금액\n- 실적조건 : 전월 이용실적 30만원 이상"
+    },
+    {
+      "category": "여가비",
+      "benefit_type": "discount_rate",
+      "benefit_value": 50,
+      "benefit_unit": "%",
+      "benefit_summary": "에버랜드 50% 할인",
+      "raw_description": ""
+    },
+    {
+      "category": "기타",
+      "benefit_type": "mileage",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "해피포인트 5% 적립",
+      "raw_description": ""
+    },
+    {
+      "category": "기타",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "통합할인한도",
+      "raw_description": ""
+    }
+  ]
+}

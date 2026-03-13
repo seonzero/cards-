@@ -1,0 +1,27 @@
+{
+  "card_name": "현대카드M HYBRID",
+  "company": "현대카드",
+  "card_type": "신용",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/414/card_img/28396/414card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/414",
+  "fee": "국내전용 없음",
+  "required_performance": 0,
+  "benefits": [
+    {
+      "category": "기타",
+      "benefit_type": "mileage",
+      "benefit_value": 1,
+      "benefit_unit": "%",
+      "benefit_summary": "100만원 이상 1% 적립",
+      "raw_description": "당월 이용금액별 M포인트 적립\n- 월 100만원 미만 이용 시 0.5% M포인트 적립\n- 월 100만원 이상 이용 시 1% M포인트 적립\n- 당월 이용금액은 결제일자에 청구된 해당 카드의 일시불 이용금액\n- 해당카드 이용실적만 인정되며, 그 외 카드의 실적은 합산 제외..."
+    },
+    {
+      "category": "기타",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "체크와 신용결제 서비스",
+      "raw_description": "하이브리드카드 이용안내\n- 체크결제는 계좌잔액 내에서 신용카드와 동일하게 사용\n- 체크카드 계좌 잔액 부족 시, 신용 한도 내에서 신용결제로 자동 전환..."
+    }
+  ]
+}

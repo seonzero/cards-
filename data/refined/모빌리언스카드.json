@@ -1,0 +1,115 @@
+{
+  "card_name": "모빌리언스카드",
+  "company": "KG모빌리언스",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/2321/card_img/23849/2321card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/2321",
+  "fee": "국내전용 없음",
+  "required_performance": 0,
+  "benefits": [
+    {
+      "category": "기타",
+      "benefit_type": "mileage",
+      "benefit_value": 1,
+      "benefit_unit": "%",
+      "benefit_summary": "온라인 1% 적립",
+      "raw_description": "온라인 1% / 오프라인 0.5% 무제한 적립\n- 적립 조건: 계좌연결 충전 후 결제 시\n- 적립률: 온라인 1% / 오프라인 0.5%\n- 적립 실적: 조건 없음\n- 적립 한도: 제한 없음"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "mileage",
+      "benefit_value": 0.5,
+      "benefit_unit": "%",
+      "benefit_summary": "오프라인 0.5% 적립",
+      "raw_description": "온라인 1% / 오프라인 0.5% 무제한 적립\n- 적립 조건: 계좌연결 충전 후 결제 시\n- 적립률: 온라인 1% / 오프라인 0.5%\n- 적립 실적: 조건 없음\n- 적립 한도: 제한 없음"
+    },
+    {
+      "category": "쇼핑",
+      "benefit_type": "mileage",
+      "benefit_value": 2,
+      "benefit_unit": "%",
+      "benefit_summary": "모빌마켓 2% 적립",
+      "raw_description": "모빌마켓 이용 시 2% 무제한 적립\n- 적립 조건: 모빌리언스카드 APP 내 모빌마켓에서 상품 구매 시\n- 적립율: 2%\n- 적립 실적: 조건 없음\n- 적립 한도: 제한 없음\n- 계좌연결 충전 후 결제 혜택과 중복 적용 불가"
+    },
+    {
+      "category": "식비",
+      "benefit_type": "mileage",
+      "benefit_value": 2,
+      "benefit_unit": "%",
+      "benefit_summary": "편의점 최대 2% 적립",
+      "raw_description": "CU, GS25, 이마트24 최대 2% 적립\n- 적립 조건: 모빌리언스카드 APP 내 바코드 결제 시\n- 적립 실적: 조건 없음\n- 적립 한도: 제한 없음"
+    },
+    {
+      "category": "식비",
+      "benefit_type": "mileage",
+      "benefit_value": 7.5,
+      "benefit_unit": "%",
+      "benefit_summary": "카페/베이커리 최대 7.5% 적립",
+      "raw_description": "카페/베이커리 브랜드 최대 7.5% 적립\n- 적립 조건: 모빌리언스카드 APP 내 바코드 결제 시\n- 적립 실적: 조건 없음\n- 적립 한도: 제한 없음\n※ 브랜드 리스트는 변경될 수 있습니다."
+    },
+    {
+      "category": "기타",
+      "benefit_type": "mileage",
+      "benefit_value": 8,
+      "benefit_unit": "%",
+      "benefit_summary": "대형마트/여가 최대 8% 적립",
+      "raw_description": ""
+    },
+    {
+      "category": "식비",
+      "benefit_type": "mileage",
+      "benefit_value": 4.5,
+      "benefit_unit": "%",
+      "benefit_summary": "외식 브랜드 최대 4.5% 적립",
+      "raw_description": ""
+    },
+    {
+      "category": "기타",
+      "benefit_type": "discount_rate",
+      "benefit_value": 10,
+      "benefit_unit": "%",
+      "benefit_summary": "KFC 10% 즉시할인",
+      "raw_description": ""
+    },
+    {
+      "category": "통신비",
+      "benefit_type": "mileage",
+      "benefit_value": 4.5,
+      "benefit_unit": "%",
+      "benefit_summary": "KG모바일 결합 4.5% 혜택",
+      "raw_description": ""
+    },
+    {
+      "category": "기타",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "다양한 충전수단 30% 소득공제",
+      "raw_description": ""
+    },
+    {
+      "category": "기타",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "휴대폰결제로 비상금 만들기",
+      "raw_description": ""
+    },
+    {
+      "category": "기타",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "페이북 및 간편결제 가능",
+      "raw_description": ""
+    },
+    {
+      "category": "기타",
+      "benefit_type": "mileage",
+      "benefit_value": 2000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "최초 결제 시 2,000P 지급",
+      "raw_description": "휴대폰결제로 충전 후 최초 결제 시 2,000P 즉시 지급 + 매월 신규 이벤트 진행 중"
+    }
+  ]
+}

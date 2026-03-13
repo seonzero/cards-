@@ -1,0 +1,51 @@
+{
+  "card_name": "K-패스(체크)",
+  "error": "검증 실패: [\"benefits[1] 잘못된 category: '카페'\"]",
+  "raw_card": {
+    "card_name": "K-패스(체크)",
+    "company": "IBK기업은행",
+    "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/2562/card_img/33444/2526card.png",
+    "meta": {
+      "url": "https://www.card-gorilla.com/card/detail/2562",
+      "fee": "국내전용 없음 해외겸용 없음",
+      "required_performance": "전월실적30만원 이상"
+    },
+    "benefit_details": [
+      {
+        "column": "대중교통",
+        "sub_column": "대중교통 건당 100원 할인",
+        "description": "대중교통 건당 100원 할인\n- 버스, 지하철\n- 후불교통카드로 이용한 건에 한함(환승요금 제외)\n- 매출표 접수일 기준으로 월 최대 1천원 할인(월 10회 한도)"
+      },
+      {
+        "column": "카페",
+        "sub_column": "커피 10% 할인",
+        "description": "커피 10% 할인\n- 스타벅스, 커피빈, 카페베네, 탐앤탐스, 엔제리너스, 투썸플레이스, 할리스, 달.콤\n- 통합 1일1회, 월2회, 1회 이용금액 1만원 한도\n- 현장결제와 각 커피 브랜드의 공식앱을 통한 온라인 결제 건에 한함\n- 커피 브랜드의 상품권, 선불카드 구입/충전 제외\n- 백화점 및 할인(아울렛)점 입점 매장은 제외"
+      },
+      {
+        "column": "온라인쇼핑",
+        "sub_column": "쇼핑 10% 할인",
+        "description": "쇼핑 10% 할인\n- 쿠팡, 티몬, 위메프\n- 통합 1일1회, 월 2회, 1회 이용금액 1만원 한도\n- 상품권 구매는 할인 제외"
+      },
+      {
+        "column": "편의점",
+        "sub_column": "편의점 5% 할인",
+        "description": "편의점 5% 할인\n- GS25, CU, 세븐일레븐, 올리브영\n- 통합 1일1회, 월 2회, 1회 이용금액 1만원 한도\n- 온라인(간편결제 등) 결제 건은 할인 제외"
+      },
+      {
+        "column": "영화",
+        "sub_column": "영화 4천원 할인",
+        "description": ""
+      },
+      {
+        "column": "테마파크",
+        "sub_column": "놀이공원 본인 무료입장 또는 자유이용권 최대 50% 할인",
+        "description": ""
+      },
+      {
+        "column": "금융",
+        "sub_column": "금융우대서비스",
+        "description": ""
+      }
+    ]
+  }
+}

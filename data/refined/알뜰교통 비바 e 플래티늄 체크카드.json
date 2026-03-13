@@ -1,0 +1,35 @@
+{
+  "card_name": "알뜰교통 비바 e 플래티늄 체크카드",
+  "company": "하나카드",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/746/card_img/27830/746card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/746",
+  "fee": "국내전용 없음 해외겸용 없음",
+  "required_performance": 250000,
+  "benefits": [
+    {
+      "category": "교통비",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 15,
+      "benefit_unit": "%",
+      "benefit_summary": "대중교통 15% 캐시백",
+      "raw_description": "대중교통 15% 캐시백\n- 시내버스, 마을버스, 광역버스, 지하철, 공항철도 이용금액의 15% 캐시백\n- 월 3만원 이상 이용 시 최대 5천원"
+    },
+    {
+      "category": "쇼핑",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 5000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "온라인 쇼핑 최대 5천원 캐시백",
+      "raw_description": "국내 온라인 쇼핑 최대 5천원 캐시백\n- 2만원 당 200원 할인\n- 한도: 최대 5천원"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "discount_rate",
+      "benefit_value": 20,
+      "benefit_unit": "%",
+      "benefit_summary": "해외 배송 대행료 20% 할인",
+      "raw_description": "해외 직접 구매 배송 대행료 20% 할인\n- 한진 이하넥스를 통해 해외 직접 구매 배송 대행료 THE빠른 서비스로 결제 시 20% 할인\n* 월 2회, 연 최대 8회, 1회당 최대 3천원 한도로 제공되며 전월 카드 사용금액에 관계 없이 서비스 제공됩니다."
+    }
+  ]
+}

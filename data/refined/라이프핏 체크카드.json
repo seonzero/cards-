@@ -1,0 +1,59 @@
+{
+  "card_name": "라이프핏 체크카드",
+  "company": "MG새마을금고",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/2860/card_img/43777/라이프핏-체크카드.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/2860",
+  "fee": "해외겸용 없음",
+  "required_performance": 200000,
+  "benefits": [
+    {
+      "category": "기타",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "공과금 5% 할인",
+      "raw_description": "도시가스, 전기요금, 아파트관리비, 사립유치원 교육경비, 초중고 학부모부담금 자동납부 결제 시 5% 할인 캐시백\n- 월 1회 한도 / 통합할인한도 적용\n* BC카드와 가맹점 계약을 맺은 가맹점에서만 결제가 가능합니다.\n* 자동납부를 통한 결제 시 할인캐시백이 적용됩니다."
+    },
+    {
+      "category": "통신비",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "통신비 5% 할인",
+      "raw_description": "통신비 대상가맹점 자동납부 결제 시 5% 할인 캐시백\n- 월 1회 한도 / 통합할인한도 적용\n* BC카드의 가맹점 등록 정보를 기준으로 적용됩니다.\n* 휴대폰 통신요금 자동납부 결제에 한하여 할인캐시백이 적용됩니다.\n* KT엠모바일의경우 KT 알뜰폰사업자의 통신요금에 한하여 할인캐시백이 적용됩니다."
+    },
+    {
+      "category": "식비",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "커피전문점 5% 할인",
+      "raw_description": "스타벅스, 커피빈, 투썸플레이스, 메가커피, 컴포즈커피, 빽다방, 매머드커피 결제 시(앱결제포함) 5% 할인 캐시백\n- 일 1회, 월 5회 한도 / 통합할인한도 적용\n* 백화점 · 할인점 · 아울렛 · 쇼핑몰 · 공항 · 호텔 등 입점매장의 경우 할인캐시백이 적용되지 않습니다.\n* 상품권 · 선불카드 · 기프트카드 · 포인트(적립금) 구입 및 충전금액은 캐시백대상에 포함되지 않습니다.\n* 현장결제와 대상 브랜드 자체 앱 결제에 할인캐시백이적용됩니다."
+    },
+    {
+      "category": "생활비",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "편의/생활 5% 할인",
+      "raw_description": "편의/생활 대상가맹점 결제 시 5% 할인캐시백\n- 일 1회, 월 5회 한도 / 통합할인한도 적용\n* 백화점 · 할인점 · 아울렛 · 쇼핑몰 · 공항 · 호텔 등 입점매장의 경우 할인캐시백이 적용되지 않습니다.\n* 오프라인 가맹점에서 현장 결제한 금액에 한해서만 할인캐시백이 적용됩니다. (온라인 매장 이용 건 할인 대상 제외)"
+    },
+    {
+      "category": "생활비",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "포토 5% 할인",
+      "raw_description": "인생네컷, 포토이즘, 포토시그니처, 하루필름 결제 시 5% 할인캐시백\n- 일 1회, 월 5회 한도 / 통합할인한도 적용\n* 백화점 · 할인점 · 아울렛 · 쇼핑몰 · 공항 · 호텔 등 입점매장의 경우 할인캐시백이 적용되지 않습니다.\n* 오프라인 가맹점에서 현장 결제한 금액에 한해서만 할인캐시백이 적용됩니다."
+    },
+    {
+      "category": "기타",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "해외이용 수수료 면제",
+      "raw_description": ""
+    }
+  ]
+}

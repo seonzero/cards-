@@ -1,0 +1,51 @@
+{
+  "card_name": "KB국민 우리동네 체크카드",
+  "error": "Expecting value: line 1 column 1 (char 0)",
+  "raw_card": {
+    "card_name": "KB국민 우리동네 체크카드",
+    "company": "KB국민카드",
+    "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/2332/card_img/24588/2332card.png",
+    "meta": {
+      "url": "https://www.card-gorilla.com/card/detail/2332",
+      "fee": "국내전용 없음 해외겸용 없음",
+      "required_performance": "전월실적20만원 이상"
+    },
+    "benefit_details": [
+      {
+        "column": "생활",
+        "sub_column": "세탁소 10% 할인",
+        "description": "세탁소 10% 할인\n* 월 할인한도: 2천원\n- KB국민카드 세탁소 업종 가맹점에서 건당 1만원 이상 결제 시\n전월 이용실적 구간\n20,000원"
+      },
+      {
+        "column": "기타",
+        "sub_column": "정육점 10% 할인",
+        "description": "정육점 10% 할인\n* 월 할인한도: 5천원\n- KB국민카드 정육점 업종 가맹점에서 건당 3만원 이상 결제시\n전월 이용실적 구간\n20,000원"
+      },
+      {
+        "column": "SSM",
+        "sub_column": "슈퍼마켓 5% 할인",
+        "description": "슈퍼마켓 5% 할인\n* 월 할인한도: 2천원\n- KB국민카드 슈퍼마켓 업종 가맹점에서 건당 2만원 이상 결제시\n전월 이용실적 구간\n20,000원"
+      },
+      {
+        "column": "기타",
+        "sub_column": "반찬가게 5% 할인",
+        "description": "반찬가게 5% 할인\n* 월 할인한도: 2천원\n- KB국민카드 기타식품 업종 가맹점에서 건당 1만원 이상 결제 시\n전월 이용실적 구간\n20,000원"
+      },
+      {
+        "column": "기타",
+        "sub_column": "야채과일가게 5% 할인",
+        "description": "야채과일가게 5% 할인\n* 월 할인한도: 2천원\n- KB국민카드 농수축협직판장, 농수축산물점업종 가맹점에서 건당 2만원 이상 결제 시\n전월 이용실적 구간\n20,000원"
+      },
+      {
+        "column": "기타",
+        "sub_column": "번개장터(번개페이) 5% 할인",
+        "description": "번개장터(번개페이) 5% 할인\n* 월 할인한도: 5천원\n- 번개장터 앱(app)에서 KB국민카드로 건당 3만원 이상 결제 시 (번개페이 포함, 타 간편결제 미포함)\n전월 이용실적 구간\n20,000원"
+      },
+      {
+        "column": "선택형",
+        "sub_column": "카드 디자인 선택 가능",
+        "description": "카드 디자인 선택 가능"
+      }
+    ]
+  }
+}

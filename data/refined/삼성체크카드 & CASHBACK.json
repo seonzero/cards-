@@ -1,0 +1,35 @@
+{
+  "card_name": "삼성체크카드 & CASHBACK",
+  "company": "삼성카드",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/394/card_img/28057/394card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/394",
+  "fee": "국내전용 없음",
+  "required_performance": 0,
+  "benefits": [
+    {
+      "category": "기타",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 0.6,
+      "benefit_unit": "%",
+      "benefit_summary": "모든가맹점 최대 0.6% 캐시백",
+      "raw_description": "업종 및 연간 이용금액에 따라 0.2%~0.6% 캐시백\n- 연간 이용금액 300만원 미만: 일반가맹점 0.2% / 음식점, 주유, 할인점 0.3% 캐시백\n- 연간 이용금액 300만원 이상: 일반가맹점 0.4% / 음식점, 주유, 할인점 0.6% 캐시백\n- 음식점 : 한식, 양식, 일식, 중식, 뷔페, 패밀리레스토랑, 간이음식점, 패스트푸드 등 모든 음식점\n- 주유 : 전국 주유소 및 LPG충전소\n- 할인점 : 이마트(에브리데이, 트레이더스 포함), 홈플러스, 롯데마트, 코스트코\n- 캐시백은 결제한 다음 달 15일에 결제계좌로 입금(월 1회)..."
+    },
+    {
+      "category": "여가비",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 3000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "CGV 3,000원 할인",
+      "raw_description": "CGV 온라인예매 3,000원 캐시백\n- CGV 홈페이지 및 스마트폰 App을 통해 5,000원 이상 결제 시 3,000원 캐시백\n- 삼성카드 접수 기준 다음 날 결제계좌로 캐시백\n- 일 1회, 연 3회 제공\n- 직전 3개월 월평균 일시불 및 할부 이용금액 30만원 이상 시 제공...\n- 예매 대행사이트 이용 시 캐시백이 적용되지 않습니다."
+    },
+    {
+      "category": "여가비",
+      "benefit_type": "discount_rate",
+      "benefit_value": 50,
+      "benefit_unit": "%",
+      "benefit_summary": "놀이공원 자유이용권 50% 할인",
+      "raw_description": "놀이공원 자유이용권 50%·워터파크 입장권 30% 현장할인\n- 직전 3개월 월평균 일시불 및 할부 이용금액 30만원 이상 시 제공..."
+    }
+  ]
+}

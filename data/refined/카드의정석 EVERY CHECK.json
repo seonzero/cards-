@@ -1,0 +1,35 @@
+{
+  "card_name": "카드의정석 EVERY CHECK",
+  "company": "우리카드",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/2552/card_img/29589/2552card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/2552",
+  "fee": "국내전용 없음 해외겸용 없음",
+  "required_performance": 0,
+  "benefits": [
+    {
+      "category": "기타",
+      "benefit_type": "mileage",
+      "benefit_value": 0.2,
+      "benefit_unit": "%",
+      "benefit_summary": "가맹점 이용금액 0.2% 적립",
+      "raw_description": "[기본 적립] 국내외 가맹점 이용금액 0.2% 적립\n- 전월실적 조건 없음\n- 적립 한도 없음\n- '추가 적립' 서비스와 중복 제공\n- '특별 적립' 서비스와 중복 제공 불가('특별 적립' 우선 적용)\n- 해외 결제 시 별도의 수수료가 발생할 수 있으며, 해당 내용은 '해외이용 안내' 참조"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 3000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "최대 3천원 추가 적립",
+      "raw_description": "[추가 적립] 전월실적에 따라 최대 3천원 추가 적립\n- '기본/특별 적립' 서비스와 중복 제공\n- 매월(1일~말일) 이용실적에 따라 다음달 20일에 적립(단, 20일이 휴일인 경우 다음 영업일에 제공)\n- 적립 제외조건을 포함한 유의사항 및 전월이용실적 관련 세부기준은 '실적 산정 방법 안내' 참조"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 10000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "4대 일상영역 1만원 적립",
+      "raw_description": "[특별 적립] 4대 일상영역 중 한 곳 1만원 적립\n- '기본 적립' 서비스와 중복 제공 불가('특별 적립' 우선 적용)\n- '추가 적립' 서비스와 중복 제공\n- 전월이용실적 30만원 이상 시 혜택 제공\n- 건당 1만원 이상 결제건에 한하여 혜택 제공(통합 월 1회, 연 4회)\n- 적립 제외조건을 포함한 유의사항 및 전월이용실적 관련 세부기준은 '실적 산정 방법 안내' 참"
+    }
+  ]
+}

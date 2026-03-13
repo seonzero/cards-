@@ -1,0 +1,27 @@
+{
+  "card_name": "K-패스카드(체크)",
+  "company": "NH농협카드",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/2561/card_img/33460/2561card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/2561",
+  "fee": "국내전용 없음 해외겸용 없음",
+  "required_performance": 200000,
+  "benefits": [
+    {
+      "category": "교통비",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 10,
+      "benefit_unit": "%",
+      "benefit_summary": "버스/지하철 10% 캐시백",
+      "raw_description": "버스/지하철 10% 캐시백\n- 버스(시내버스, 마을버스, 광역버스, 고속시외버스) 및 지하철렌터카/카쉐어링 5% 캐시백\n- 렌터카, 쏘카, 그린카\n전기차 충전 5% 캐시백\n- 환경부 공공 급속충전기 충전요금 현장결제 및 멤버쉽카드 간편결제\n- 환경부 공공 급속충전기 충전요금 현장결제: 환경부 충전기에서 본 카드로 직접 결제하는 경우\n- 멤버쉽카드 간편결제: 환경부 멤버쉽카드에 결제 카드로 등록 후 환경부 및 충전기 공동 이용 서비스 가입업체 충전기에서 멤버쉽 카드로 결제하는 경우"
+    },
+    {
+      "category": "통신비",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "이동통신요금 5% 캐시백",
+      "raw_description": "이동통신요금 5% 캐시백(월 3천원, 1회 한)\n- SKT, KT, LG U+ 자동납부 시 할인 제공커피전문점 5% 캐시백(월 2천원, 2회 한)\n- 스타벅스/이디야/커피빈/투썸플레이스편의점 5% 캐시백(월 1천원, 2회 한)\n- GS25/CU\n- 체크카드 캐시백 금액은 결제일에 일괄 입금\n- 라이프 서비스는 이용 건당 1만원 이상 결제 시 캐시백 제공\n- 라이프 서비스는 전월실적 20만원 이상 결제 시 캐시백 제공\n- 라이프 서비스의 이동통신요금 할인, 커피전문점 할인과 편의점 캐시백은 개별 할인 한도 적용\n- 커피전문점/편의점 캐시백 대상 가맹점은 오프라인 매장 현장 결제에 한함(APP결제 등 할인 제외, 스타벅스 사이렌오더 할인 가능)"
+    }
+  ]
+}

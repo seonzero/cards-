@@ -1,0 +1,67 @@
+{
+  "card_name": "우체국 LUCK-KEY 체크카드",
+  "company": "우체국",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/2871/card_img/43922/2871card_1.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/2871",
+  "fee": "국내전용 없음 해외겸용 없음",
+  "required_performance": 100000,
+  "benefits": [
+    {
+      "category": "기타",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 10,
+      "benefit_unit": "%",
+      "benefit_summary": "편의점 10% 캐시백",
+      "raw_description": "편의점 10% 캐시백\n- CU, GS25, 세븐일레븐, 이마트24\n* 건당 5천원 이상 결제, 대상 가맹점 통합 월 5천원 한도\n* 현장 결제에 한하여 적용"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 7,
+      "benefit_unit": "%",
+      "benefit_summary": "간편결제 7% 캐시백",
+      "raw_description": "간편결제 7% 캐시백\n- 삼성페이, 네이버페이, 카카오페이, 토스페이\n* 건당 7천원 이상 결제, 대상 가맹점 통합 월 2천원 한도\n* 간편결제 수단을 이용하여 결제한 건에 대해 캐시백 적용 (모바일, PC, 현장결제 모두 가능)\n* 상기 대상 간편결제로 ‘편의점/간편식/커피/힐링/열공’ 영역에서 결제 시 ‘간편결제’ 사용금액으로 분류되어 캐시백 적용\n(예시) ’CU’에서 ‘카카오페이’로 간편 결제하는 경우, ‘간편결제’ 영역으로 캐시백 적용"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 7,
+      "benefit_unit": "%",
+      "benefit_summary": "간편식 7% 캐시백",
+      "raw_description": "간편식 7% 캐시백\n- 맥도날드, 롯데리아, 버거킹, 써브웨이\n* 건당 7천원 이상 결제, 대상 가맹점 통합 월 2천원 한도 ※ 현장 결제와 각 브랜드 공식앱을 통한 온라인 결제에 한하여 적용"
+    },
+    {
+      "category": "식비",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 7,
+      "benefit_unit": "%",
+      "benefit_summary": "커피 7% 캐시백",
+      "raw_description": "커피 7% 캐시백\n- 메가MGC, 컴포즈, 빽다방, 이디야, 공차\n* 건당 7천원 이상 결제, 대상 가맹점 통합 월 2천원 한도\n* 현장 결제와 각 브랜드(‘공차’ 제외) 공식앱을 통한 온라인 결제에 한하여 적용"
+    },
+    {
+      "category": "생활비",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 7,
+      "benefit_unit": "%",
+      "benefit_summary": "힐링 7% 캐시백",
+      "raw_description": "힐링 7% 캐시백\n- 카카오톡 선물하기, 여행(철도승차권), 인생네컷, 포토이즘, 포토시그니처, 하루필름\n* 건당 1만원 이상 결제, 대상 가맹점 통합 월 2천원 한도\n* 카카오톡 선물하기 : 배송상품에 한함(상품권 및 교환권은 제외)\n* 철도승차권 : KORAIL(한국철도공사), (주)SR 현장 및 공식 홈페이지, 앱을 통한 결제 시 적용\n* 인생네컷, 포토이즘, 포토시그니처, 하루필름은 현장 결제에 한하여 적용"
+    },
+    {
+      "category": "교육",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 7,
+      "benefit_unit": "%",
+      "benefit_summary": "열공 7% 캐시백",
+      "raw_description": ""
+    },
+    {
+      "category": "기타",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "무료가입 제휴보험",
+      "raw_description": "[특별서비스] 우체국예금 제휴보험3종(청년우대형) 무료가입(1년)"
+    }
+  ]
+}

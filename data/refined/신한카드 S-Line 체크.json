@@ -1,0 +1,59 @@
+{
+  "card_name": "신한카드 S-Line 체크",
+  "company": "신한카드",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/294/card_img/20517/294card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/294",
+  "fee": "국내전용 없음 해외겸용 없음",
+  "required_performance": 300000,
+  "benefits": [
+    {
+      "category": "기타",
+      "benefit_type": "mileage",
+      "benefit_value": 0.5,
+      "benefit_unit": "%",
+      "benefit_summary": "가맹점 0.5% 적립",
+      "raw_description": "마이신한포인트 적립 서비스\n- 기본적립 : 전 가맹점 이용금액의 0.2% 기본 적립(전월 30만원 이상 이용시 제공)\n- 특별적립 : 전 가맹점 이용금액의 0.3% 추가 적립(3개월 연속 50만원 이상 이용시 제공)\n- 할인 적용된 이용금액, 연회비, 지방세, 수도요금, 공과금 납부, 각종 수수료 및 이자, 포인트 사용금액, 선불카드 충전금액, Gift카드 구매 금액 등은 포인트 적립에서 제외\n- 전 가맹점은 신한카드에 등록된 가맹점 기준입니다."
+    },
+    {
+      "category": "식비",
+      "benefit_type": "discount_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "요식업종 5% 할인",
+      "raw_description": "요식업종 이용금액의 5% 할인\n- 캐시백 할인\n- 오전 11시 ~ 오후 2시 이용금액에 한하여 제공\n- 1만원 이상(할인 전 승인금액 기준) 이용 시 일 1회, 월 5회, 건당 최대 1,000원 할인\n- 업종 구분은 해당 가맹점의 신한카드 등록 내용에 따르며, 일부 실제와 상이할 수 있음\n할인서비스 유의사항\n- 본 할인서비스는 통합할인한도내에서 모두 제공되며, 실적에 따라 이용이 제한될 수 있습니다.\n- 교통 할인 서비스는 S–Line 체크카드를 후불 교통카드로 발급받으시는 경우에 제공되며, 후불 교통카드로 발급받지 않으신 경우 주유할인 서비스가 제공됩니다.\n- S–Line 체크 후불교통카드는 주유할인 서비스가 제공되지 않습니다."
+    },
+    {
+      "category": "교통비",
+      "benefit_type": "discount_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "교통비 5% 할인",
+      "raw_description": "버스, 지하철 이용금액의 5% 할인 (후불교통 카드 선택 시)\n- 캐시백 할인\n- 월 최대 5,000원까지 할인\n- S-Line 체크카드를 후불교통카드로 이용 시 제공\n- 신한카드 교통카드 서비스 가능 지역에 한해 할인 적용\n* (단, 공항버스, 공항리무진, 공항철도, 터널, 인천대교, 신공항 하이웨이 제외)\nSK주유소 주유 시 리터당 40원 할인 (후불교통카드 미 선택 시)\n- 캐시백 할인\n- 휘발유, 경유, 등유에 한함(LPG 제외)\n- 일 1회(주유금액 5만원 이하), 매월 30만원까지 할인 적용\n- 할인금액은 정유사가 통보한 휘발유 표준 고시유가 기준 적용\n할인서비스 유의사항\n- 본 할인서비스는 통합할인한도내에서 모두 제공되며, 실적에 따라 이용이 제한될 수 있습니다.\n- 교통 할인 서비스는 S–Line 체크카드를 후불 교통카드로 발급받으시는 경우에 제공되며, 후불 교통카드로 발급받지 않으신 경우 주유할인 서비스가 제공됩니다.\n- S–Line 체크 후불교통카드는 주유할인 서비스가 제공되지 않습니다."
+    },
+    {
+      "category": "쇼핑",
+      "benefit_type": "discount_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "홈쇼핑 5% 할인",
+      "raw_description": "홈쇼핑 이용금액의 5% 할인\n- 캐시백 할인\n- CJ, 현대, GS, 롯데 홈쇼핑에 한함\n- 월 2회, 건당 최대 2,500원 할인\n해외 이용금액의 5% 할인\n- 캐시백 할인\n- 월 2회, 건당 최대 2,500원 할인\n- 해외 가맹점 구분은 신한카드 가맹점 등록 내용에 따르며, 일부 실제와 상이할 수 있음\n할인서비스 유의사항\n- 본 할인서비스는 통합할인한도내에서 모두 제공되며, 실적에 따라 이용이 제한될 수 있습니다.\n- 교통 할인 서비스는 S–Line 체크카드를 후불 교통카드로 발급받으시는 경우에 제공되며, 후불 교통카드로 발급받지 않으신 경우 주유할인 서비스가 제공됩니다.\n- S–Line 체크 후불교통카드는 주유할인 서비스가 제공되지 않습니다."
+    },
+    {
+      "category": "기타",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "금융 우대 서비스",
+      "raw_description": "금융 우대 서비스"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "신한카드 S-Line 체크 할인한도",
+      "raw_description": "신한카드 S-Line 체크 할인한도"
+    }
+  ]
+}

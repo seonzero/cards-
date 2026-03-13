@@ -1,0 +1,71 @@
+{
+  "card_name": "카드의정석 오하CHECK",
+  "error": "검증 실패: [\"benefits[3] 잘못된 category: '카페'\", \"benefits[4] 잘못된 category: '배달앱'\"]",
+  "raw_card": {
+    "card_name": "카드의정석 오하CHECK",
+    "company": "우리카드",
+    "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/2570/card_img/46005/2570_card.png",
+    "meta": {
+      "url": "https://www.card-gorilla.com/card/detail/2570",
+      "fee": "국내전용 없음 해외겸용 없음",
+      "required_performance": "전월실적20만원 이상"
+    },
+    "benefit_details": [
+      {
+        "column": "온라인쇼핑",
+        "sub_column": "[오늘 하루 SHOPPING] 온라인 쇼핑 5% 캐시백",
+        "description": "[오늘 하루 SHOPPING] 온라인 쇼핑  5% 캐시백\n- 쿠팡, 무신사, 지그재그\n- 매출 건당 최대 1천원까지 캐시백 제공\n- 쿠팡 : 일반결제 및 쿠페이 결제 시 캐시백 제공(쿠팡로켓와우 및 기타 간편결제 건 캐시백 제외)\n- 무신사, 지그재그 : 공식 앱 및 홈페이지를 통한 결제 건에 한하며, 네이버페이,우리페이로 승인된 매출은 캐시백 제외"
+      },
+      {
+        "column": "간편결제",
+        "sub_column": "[오늘 하루 SHOPPING] 간편결제 5% 캐시백",
+        "description": "[오늘 하루 SHOPPING] 간편결제 5% 캐시백\n- 네이버페이, 우리페이\n- 매출 건당 최대 1천원까지 캐시백 제공\n- 해당 서비스는 페이에 본 카드를 등록하여 온라인업종에서 사용한 경우에 제공\n- 간편결제와 타 서비스 매출이 중복되는 경우 간편결제 서비스로 캐시백 적용됨"
+      },
+      {
+        "column": "생활",
+        "sub_column": "[오늘 하루 SHOPPING] 안경/렌즈 5% 캐시백",
+        "description": "[오늘 하루 SHOPPING] 안경/렌즈 5% 캐시백\n- 안경점 업종\n- 매출 건당 최대 1천원까지 캐시백 제공\n- 해당 서비스는 오프라인 안경점에서 사용한 경우에 제공\n- 네이버페이, 우리페이로 승인된 매출은 캐시백 제외"
+      },
+      {
+        "column": "카페",
+        "sub_column": "[오늘 하루 EAT] 커피 5% 캐시백",
+        "description": "[오늘 하루 EAT] 커피 5% 캐시백\n- 스타벅스 사이렌오더\n- 매출 건당 최대 1천원까지 캐시백 제공\n- 스타벅스 공식 앱을 통한 사이렌오더 결제 건에 한하며, 스타벅스카드(e-gift카드 포함) 구매 및 충전, 백화점/대형할인점 내 매장이나 미군부대 등 임대매장 결제 건은 서비스 적용 제외\n- 네이버페이, 우리페이로 승인된 매출은 캐시백 제외"
+      },
+      {
+        "column": "배달앱",
+        "sub_column": "[오늘 하루 EAT] 배달/주문 5% 캐시백",
+        "description": "[오늘 하루 EAT] 배달/주문 5% 캐시백\n- 배달의민족, 쿠팡이츠, B마트, 마켓컬리(컬리패스)\n- 매출 건당 최대 1천원까지 캐시백 제공\n- 공식 앱 및 홈페이지를 통한 결제 건에 한하며, 가맹점 직접결제 및 상품권 구매 캐시백 제외\n- 네이버페이, 우리페이로 승인된 매출은 캐시백 제외\n- 마켓컬리(컬리패스) : 멤버십 자동납부 결제 건에 한하여 캐시백 제공(월 1회)"
+      },
+      {
+        "column": "대중교통",
+        "sub_column": "[오늘 하루 LIFE] 대중교통(버스/지하철) 5% 캐시백",
+        "description": ""
+      },
+      {
+        "column": "통신",
+        "sub_column": "[오늘 하루 LIFE] 이동통신 5% 캐시백",
+        "description": ""
+      },
+      {
+        "column": "해외",
+        "sub_column": "[오늘 하루 LIFE] 해외 5% 캐시백",
+        "description": ""
+      },
+      {
+        "column": "생활",
+        "sub_column": "[오늘 하루 LIFE] 어학시험 5% 캐시백",
+        "description": ""
+      },
+      {
+        "column": "디지털구독",
+        "sub_column": "[오늘 하루 PLAY] OTT 5% 캐시백",
+        "description": ""
+      },
+      {
+        "column": "공연/전시",
+        "sub_column": "[오늘 하루 PLAY] 공연티켓 5% 캐시백",
+        "description": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "card_name": "영리한 PLUS 체크카드",
+  "company": "우체국",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/2227/card_img/21354/2227card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/2227",
+  "fee": "해외겸용 없음",
+  "required_performance": 300000,
+  "benefits": [
+    {
+      "category": "기타",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 20,
+      "benefit_unit": "%",
+      "benefit_summary": "디지털구독 20% 캐시백",
+      "raw_description": "유튜브프리미엄, 넷플릭스, 웨이브, 티빙, 멜론, 지니 20% 캐시백\n- 건당 이용금액 3천원 이상 / 대상 가맹점 통합 월 3회\n- 정기결제로 자동납부한 경우에만 캐시백 제공\n- 대상 가맹점의 공식홈페이지(앱)을 통해 직접 신청한 경우에 한해 제공\n- 구글플레이/앱스토어 결제, 1회성 일반구매 결제, 앱마켓 내부 결제, 통신요금 내 합산 청구 등 가맹점 구분이 불가한 경우 캐시백 제공 불가\n- 간편결제(네이버페이, 카카오페이 등)로 결제한 경우 캐시백 제공 불가"
+    },
+    {
+      "category": "쇼핑",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 15,
+      "benefit_unit": "%",
+      "benefit_summary": "온라인쇼핑 15% 캐시백",
+      "raw_description": "11번가, G마켓, 옥션, 쿠팡, 위메프, 티몬 15% 캐시백\n- 건당 이용금액 3만원 이상 / 대상 가맹점 통합 월 3회"
+    },
+    {
+      "category": "식비",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 15,
+      "benefit_unit": "%",
+      "benefit_summary": "배달앱 15% 캐시백",
+      "raw_description": "배달의민족, 요기요, 쿠팡이츠 15% 캐시백\n- 건당 이용금액 1만원 이상 / 대상 가맹점 통합 월 3회\n- 대상 배달앱 공식 홈페이지 및 앱에서 결제시에만 캐시백 제공"
+    },
+    {
+      "category": "식비",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "카페 5% 캐시백",
+      "raw_description": "스타벅스, 투썸플레이스, 이디야 5% 캐시백\n- 건당 이용금액 5천원 이상 / 대상 가맹점 통합 3회\n- 대형가맹점(백화점, 할인점, 아울렛, 공항 등) 입점 매장의 경우 캐시백 제공 불가\n- 현장결제와 오더결제(스타벅스 사이렌오더, 투썸오더, 이디야 오더) 캐시백 제공\n- 상품권, 선불카드, 기프트카드 구입 및 충전금액은 캐시백 적용 불가"
+    },
+    {
+      "category": "생활비",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "생활비 5% 캐시백",
+      "raw_description": "올리브영, 랄라블라, 다이소, GS25, CU, 이마트24\n· 건당 이용금액 1만원 이상 / 대상 가맹점 통합 월 3회\n· 올리브영, 랄라블라는 온오프라인 가맹점 결제건 포함\n· 다이소, GS25, CU, 이마트24는 오프라인 결제건에 한해 제공\n· 대형가맹점(백화점, 면세점, 아울렛, 공항 등) 입점 매장의 경우 캐시백 제공 불가"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "기타 5% 캐시백",
+      "raw_description": "우편요금, 인터넷우체국, 우체국쇼핑, EMS 5% 캐시백"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "card_name": "I-Travel(체크)",
+  "company": "IBK기업은행",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/2866/card_img/43877/2866card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/2866",
+  "fee": "국내전용 없음 해외겸용 없음",
+  "required_performance": 0,
+  "benefits": [
+    {
+      "category": "기타",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "우대 환율 적용",
+      "raw_description": "우대 환율(매매기준율) 적용\n- 미화(USD) 이외 통화로 결제시 국제브랜드사에서 산정한 환율에 의해 미화(USD) 금액으로 환산 후, IBK기업은행 매매기준율을 적용"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "해외수수료 면제",
+      "raw_description": "국제브랜드수수료(1%) 및 해외이용 수수료(0.18%) 면제\n- 전월 실적 무관"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "해외ATM 수수료 면제",
+      "raw_description": "국제브랜드수수료(1%) 및 해외ATM 이용 수수료(USD 3.0) 월 3회 면제\n- 전월 실적 무관\n해외 ATM이용방법\n- 해외 현지에 있는 마스터카드, 비자카드, JCB카드, 카드 취급은행이나 주요호텔, 공항 및 공공기관 등에 설치되어 있는 ATM기에 요청금액(현지통화) 및 비밀번호를 입력하여 예금인출 또는 단기카드대출을 받을 수 있습니다.\nATM 이용 시 수수료 부과안내\n(국제카드수수료는 상품별로 상이하오니 리플렛을 통해 정확한 수수료를 반드시 확인해주시기 바랍니다.)\n- 예금조회수수료 : 개별 거래당 건당 USD 0.5\n- 예금인출수수료\n* MASTER : 개별거래 건당 USD 3, 국제카드수수료 최대1.0%\n* VISA : 개별거래 건당 USD 3, 국제카드수수료 최대1.1%\n* UPI : 개별거래 건당 USD 3,국제카드수수료 최대 0.8%\n- 예금인출은 개인체크카드 회원에 한해 가능합니다.\n- ATM 단기카드대출 수수료\n* MASTER : 국제카드수수료 최대 1.0%, 해외이용수수료 0.18%, 단기카드대출수수료\n* VISA : 국제카드수수료 최대 1.1%, 해외이용수수료 0.18%, 단기카드대출수수료\n* UPI : 국제카드수수료 최대 0.8%, 해외이용수수료 0.18%,단기카드대출수수료"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "mileage",
+      "benefit_value": 0.033,
+      "benefit_unit": "%",
+      "benefit_summary": "대한항공 마일리지 적립",
+      "raw_description": "건당 3만원 이상 결제 시 3천원당 1마일리지 적립\n- 전월 실적 50만원 이상 충족 필요"
+    }
+  ]
+}

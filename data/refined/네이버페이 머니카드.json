@@ -1,0 +1,43 @@
+{
+  "card_name": "네이버페이 머니카드",
+  "company": "네이버페이",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/2626/card_img/31677/2625card_1.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/2626",
+  "fee": "국내전용 없음 해외겸용 없음",
+  "required_performance": 0,
+  "benefits": [
+    {
+      "category": "기타",
+      "benefit_type": "mileage",
+      "benefit_value": 3,
+      "benefit_unit": "%",
+      "benefit_summary": "해외 결제 3% 적립",
+      "raw_description": "해외 온/오프라인 3% 적립\n- 적립 혜택 : 3%\n- 해외 결제 수수료 : 면제 (3개월 간 수수료 100% 포인트백)"
+    },
+    {
+      "category": "여가비",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "N트래블클럽 업그레이드",
+      "raw_description": "N트래블클럽 업그레이드\n- 네이버 여행 멤버십 혜택! 항공, 호텔 할인・적립\n- 3개월 간 스마트 등급으로 UP\n- 여행 제휴사 추가 혜택"
+    },
+    {
+      "category": "쇼핑",
+      "benefit_type": "mileage",
+      "benefit_value": 1.5,
+      "benefit_unit": "%",
+      "benefit_summary": "네이버쇼핑 1.5% 적립",
+      "raw_description": "네이버 쇼핑 간편결제 최대 1.5% 적립\n- 네이버 스마트/브랜드 스토어 카드 간편결제 시 (이 외 네이버페이 서비스는 0.3% 기본 적립)\n- 모든 국내 온/오프라인 가맹점 0.3% 적립 (최대)"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "mileage",
+      "benefit_value": 10,
+      "benefit_unit": "%",
+      "benefit_summary": "정기결제 10% 적립",
+      "raw_description": "플러스 멤버십 스튜던트 정기결제 10% 적립\n- 네이버페이 최대 5% 적립\n- 웹툰, 방송 등 무료 콘텐츠 (월 1개)\n- MYBOX 저장공간"
+    }
+  ]
+}

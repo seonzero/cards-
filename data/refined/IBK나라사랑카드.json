@@ -1,0 +1,43 @@
+{
+  "card_name": "IBK나라사랑카드",
+  "company": "IBK기업은행",
+  "card_type": "신용",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/2941/card_img/46628/2941card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/2941",
+  "fee": "국내전용 없음 해외겸용 없음",
+  "required_performance": 0,
+  "benefits": [
+    {
+      "category": "생활비",
+      "benefit_type": "discount_rate",
+      "benefit_value": 10,
+      "benefit_unit": "%",
+      "benefit_summary": "편의점 10% 청구할인",
+      "raw_description": "항목별 10~20% 청구 할인\n- 1일 할인횟수 : 편의점 1일 2회, 그 외 항목별 1일 1회\n- 할인금액 : 건당 최대 1천원 ※ 대중교통은 할인 횟수, 할인 금액 제한 없음\n- 대중교통 : 후불 IC카드로 이용한 건에 한함\n- 대중교통, 편의점 : 전월 실적 25만원 이상 고객은 '파워업 서비스 All in One'의 대중교통,편의점 할인 제공 ('나라', '사랑' 서비스 대중교통, 편의점 할인 미제공)\n- 구독·게임·콘텐츠 : 공식앱 또는 홈페이지를 통한 국내 매출 자동납부 건에 한함"
+    },
+    {
+      "category": "생활비",
+      "benefit_type": "mileage",
+      "benefit_value": 10,
+      "benefit_unit": "%",
+      "benefit_summary": "결제 금액 10% 포인트 적립",
+      "raw_description": "Npay에 등록된 IBK나라사랑카드로 결제 시 결제 금액의 10% Npay 포인트 적립\n- 1일 1회, 건당 최대 1,000원 적립, 온·오프라인 결제건 모두 포함\n- IBK나라사랑카드와 연결된 네이버 계정으로 Npay 포인트 적립\n- Npay 포인트 적립은 이용월의 익월 중 적립\n- Npay 포인트 적립 제외 업종 : 각종 세금(국세, 지방세, 관세 등), 공과금(장애인 고용부담금, 전기요금, 우편요금, 도시가스요금, 상하수도요금, 여권발급비용, 과태료, 범칙금, 벌금 등), 4대보험(건강보험, 국민연금, 고용보험, 산재보험), 국가·공공기관·공공단체에서 개설한 가맹점 이용금액, 대학(대학원) 등록금, 초중고 학부모부담금, 각종 수수료 및 이자, 상품권/가맹점포인트/선불카드 구입 및 충전, 아파트관리비, 매출취소금액\n※ 프로모션은 2026.12.31.일까지 운영"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "discount_rate",
+      "benefit_value": 50,
+      "benefit_unit": "%",
+      "benefit_summary": "PX 최대 50% 할인",
+      "raw_description": "PX 최대 50% 할인\n- 전국 군부대 내 PX(해군마트 포함)에서 결제금액에 따라 PX기본할인과 PX특별할인 동시 적용\n* 예시 : PX 20만원 결제 시, 10만원 할인(5만원 기본할인 + 5만원 특별할인)\n[PX기본할인] 3만원 미만구간 및 3만원 이상 구간 할인한도는 각각 별도로 적용\n[PX특별할인]\n- PX기본할인과 PX특별할인은 할인한도와 할인 횟수가 각각 별도로 적용\n- 현역병 : 전월 말일 기준 IBK장병내일준비적금 보유 고객은 별도의 증빙 절차 없이 현역병으로 간주하며, 그 외 고객은 복무확인서와 건강보험자격득실확인서를 IBK기업은행에 제출한 경우에 한해 제출일 익월부터 현역병으로 인정\n- 병 급여이체자 : IBK나라사랑카드 결제계좌로 전월 국군재정관리단을 통한 병 급여 수령 시 인정"
+    },
+    {
+      "category": "생활비",
+      "benefit_type": "discount_rate",
+      "benefit_value": 10,
+      "benefit_unit": "%",
+      "benefit_summary": "GS25, Emart24, CU 10% 청구할인",
+      "raw_description": "GS25, Emart24, CU 10% 청구할인\n- 월 2회, 1회 1천원 할인 한도\n- [추가] GS25 주요품목 10% 현장할인\n- 1일 1회(1회 할인한도 제한없음)\n- 전월 이용실적 관계없이 상시 제공\n- 간편식, 음료(주류 제외), 아이스크림에 한함\nKTX / SRT / 새마을호/ 무궁화호 / 고속버스 5% 청구할인\n- 통합 월 2회, 연 4회, 1회 2천원 할인 한도"
+    }
+  ]
+}

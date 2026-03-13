@@ -1,0 +1,43 @@
+{
+  "card_name": "신한카드 주거래 체크",
+  "company": "신한카드",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/284/card_img/20506/284card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/284",
+  "fee": "해외겸용 없음",
+  "required_performance": 300000,
+  "benefits": [
+    {
+      "category": "기타",
+      "benefit_type": "point",
+      "benefit_value": 0.3,
+      "benefit_unit": "%",
+      "benefit_summary": "모든가맹점 포인트 적립",
+      "raw_description": "모든 가맹점 0.3% 포인트 적립\n- 신한카드 주거래 체크 전월(1일~말일) 이용금액(일시불+할부) 30만원 이상 시 제공 됩니다.\n- 신한카드 주거래 체크로 마이신한포인트는 월 최대 3만원까지 적립됩니다.\n(해당월 총 청구금액 기준/ 가족카드 통합)"
+    },
+    {
+      "category": "쇼핑",
+      "benefit_type": "point",
+      "benefit_value": 1,
+      "benefit_unit": "%",
+      "benefit_summary": "쇼핑 가맹점 포인트 적립",
+      "raw_description": "쇼핑 가맹점 1% 포인트 적립(기본 0.3% + 추가 0.7%)\n- 3대 할인점(이마트, 롯데마트, 홈플러스)\n- 3대 백화점(롯데백화점, 현대백화점, 신세계백화점)\n- 3대 온라인몰(11번가, G마켓, 옥션)\n- 3대 소셜커머스(쿠팡, 티켓몬스터, 위메프)\n- 이마트 에브리데이, 롯데슈퍼, 홈플러스 익스프레스 등 기업형 슈퍼마켓(SSM) 및 백화점, 상품권 구매는 제외됩니다.  (할인점 온라인몰은 가능)\n- 쿠팡, 티켓몬스터, 위메프 사이트 직접 접속 시 혹은 해당 앱을 통해서 접속시에만 쇼핑 포인트 적립 서비스가 적용됩니다."
+    },
+    {
+      "category": "생활비",
+      "benefit_type": "point",
+      "benefit_value": 2,
+      "benefit_unit": "%",
+      "benefit_summary": "생활 가맹점 포인트 적립",
+      "raw_description": "생활 가맹점 2% 포인트 적립(기본 0.3% + 추가 1.7%)\n- 이동통신 요금(SKT/KT/LGU+) 자동 이체 거래건\n- 버스/지하철 후불교통카드 이용금액\n- 도시가스 이용 금액\n- 알뜰폰 자동 이체 거래 건은 제외됩니다.\n- 버스/지하철의 후불교통카드 이용 금액만 적립됩니다."
+    },
+    {
+      "category": "기타",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "금융 수수료 면제",
+      "raw_description": "신한 주거래 우대통장\n- 급여이체, 신한카드 결제 또는 공과금 이체 고객 대상 금융수수료 면제 혜택을 제공하는\n신한 주거래 우대적금\n- 급여이체, 신한카드 결제 등 신한금융그룹 거래에 따라 우대이자율을 제공하는 주거래\n고객 전용 적금\n신한 주거래 대출\n- 소득증빙 or 재직서류 없이 신한은행과의 거래실적&고객의 신용등급을 기반하여 대출한도가 부여되는 주거래 고객 전용 신용대출"
+    }
+  ]
+}

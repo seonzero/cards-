@@ -1,0 +1,27 @@
+{
+  "card_name": "카드의정석 APT CHECK",
+  "company": "우리카드",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/545/card_img/21251/545card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/545",
+  "fee": "국내전용 9,000원 해외겸용 9,000원",
+  "required_performance": 300000,
+  "benefits": [
+    {
+      "category": "기타",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 3000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "아파트관리비 3천원 캐시백",
+      "raw_description": "아파트관리비(공공 임대료) 3천~10천원 캐시백\n- 카드 자동납부 시 전월실적별 차등 캐시백\n* 단, 관리비/임대료는 10천원 이상 결제건에 한하여 제공(통합 월 1회)\n* 공공 임대료는 LH/SH/전북개발공사에 한함\n- 아파트관리비 자동납부방법 안내\n* 우리카드 전용상담센터: 1800-7800 / 1588-9955\n* 우리카드 홈페이지: 금융서비스 > 납부서비스 > 아파트관리비 납부\n* 우리카드 스마트앱: 납부서비스 > 아파트관리비 > 자동납부 신청\n* 전국 우리은행 영업점: 평일 09:00 ~ 16:00 / 주말 및 공휴일 제외\n* ARS: 아파트관리비 자동납부 신청 전용ARS ☎1544-6111"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 30,
+      "benefit_unit": "%",
+      "benefit_summary": "유튜브 프리미엄 30% 캐시백",
+      "raw_description": "유튜브 프리미엄 정기권 30% 캐시백\n- 월 정기권 카드 자동납부 시 제공(월 1회)\n* 전월 실적 30만원 이상 시 제공"
+    }
+  ]
+}

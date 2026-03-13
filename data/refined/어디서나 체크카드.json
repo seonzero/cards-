@@ -1,0 +1,51 @@
+{
+  "card_name": "어디서나 체크카드",
+  "company": "우체국",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/571/card_img/21304/571card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/571",
+  "fee": "해외겸용 없음",
+  "required_performance": 300000,
+  "benefits": [
+    {
+      "category": "쇼핑",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 10,
+      "benefit_unit": "%",
+      "benefit_summary": "전통시장 10% 캐시백",
+      "raw_description": "전통시장 10% 캐시백\n- 회당 최대 2천원, 통합 월 5천원(오프라인 이용에 한함)\n대형마트, 6대 홈쇼핑, 다이소 5% 캐시백\n- 회당 최대 2천원, 통합 월 최대 5천원\n- 대형마트 : 이마트, 홈플러스, 롯데마트, 농협판매장(하나로클럽, 하나로마트 등)\n- 6대 홈쇼핑 : CJ, GS, NS, 현대, 롯데, 홈앤쇼핑\n* 대형마트, 다이소는 오프라인 이용 건에 한함\n11번가, G마켓, 옥션, 쿠팡 5% 캐시백\n- 회당 최대 1천원, 통합 월 최대 5천원"
+    },
+    {
+      "category": "식비",
+      "benefit_type": "mileage",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "음식점 5%포인트 적립",
+      "raw_description": "음식점 5%포인트 적립\n- 오전 11시~오후 2시 승인 건에 한하여 적용\n- 일반한식, 갈비전문점, 한정식, 일식, 횟집, 중국음식, 서양음식, 스낵, 위탁급식 업종 적용\n* 주점, 칵테일바 업종 제외\n파리바게트, 뚜레쥬르, 엔제리너스, 카페베네, 스타벅스, 이디야, 폴바셋 5% 포인트 적립\n* 식 ·음료 업종 통합 회당 1천원, 월 최대 5회\n* 백화점·대형마트·쇼핑몰 내 매장 제외"
+    },
+    {
+      "category": "교통비",
+      "benefit_type": "mileage",
+      "benefit_value": 40,
+      "benefit_unit": "KRW",
+      "benefit_summary": "주유소 L당 40원 적립",
+      "raw_description": "SK주유 L당 40원 포인트 적립\n알뜰주유 L당 100원 포인트 적립\n※ SK주유/알뜰주유 1일 1회, 1회 주유급액, 10만원 한도, 통합 월 최대 1만원\n※ LPG 충전소 제외 , SK에너지 고시 휘발유가로 환산하여 제공"
+    },
+    {
+      "category": "여가비",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "메가박스 5% 캐시백",
+      "raw_description": "메가박스 현장구매, 홈페이지 예매시 5% 캐시백\n* 대행업체를 통한 영화예매 시 할인제외\n* 건당 2만원 이상 결제 시\nYes24, 교보문고(인터넷) 5% 캐시백\n※ 메가박스/YES24/인터넷 교보문고 회당 최대 1천원 통합 월 최대 5천원"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "mileage",
+      "benefit_value": 10,
+      "benefit_unit": "%",
+      "benefit_summary": "우체국쇼핑 10% 포인트 적립",
+      "raw_description": "우편, 택배, EMS, 우표구매, 우체국쇼핑 10% 포인트 적립\n* 통합 월 최대 5천원"
+    }
+  ]
+}

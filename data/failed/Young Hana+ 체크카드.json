@@ -1,0 +1,41 @@
+{
+  "card_name": "Young Hana+ 체크카드",
+  "error": "검증 실패: [\"benefits[1] 잘못된 category: '편의비'\"]",
+  "raw_card": {
+    "card_name": "Young Hana+ 체크카드",
+    "company": "하나카드",
+    "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/2809/card_img/40125/2809card.png",
+    "meta": {
+      "url": "https://www.card-gorilla.com/card/detail/2809",
+      "fee": "국내전용 없음 해외겸용 없음",
+      "required_performance": "전월실적없음"
+    },
+    "benefit_details": [
+      {
+        "column": "간편결제",
+        "sub_column": "페이결제 0.5% 캐시백",
+        "description": "페이결제 0.5% 캐시백\n- 하나페이, 삼성페이, 네이버페이, 쿠페이,11Pay,L페이, 카카오페이, SSG페이, 페이코에 카드를 등록하여 결제"
+      },
+      {
+        "column": "편의점",
+        "sub_column": "GS25, CU, 이마트24, 세븐일레븐 5% 캐시백",
+        "description": "GS25, CU, 이마트24, 세븐일레븐 5% 캐시백"
+      },
+      {
+        "column": "배달앱",
+        "sub_column": "배달의 민족, 요기요 5% 캐시백",
+        "description": "배달의 민족, 요기요 5% 캐시백"
+      },
+      {
+        "column": "대중교통",
+        "sub_column": "버스, 지하철 10% 캐시백",
+        "description": "버스, 지하철 10% 캐시백\n- 대중교통 캐시백 대상 : 시내버스, 마을버스, 광역버스, 공항버스, 지하철, 공항철도\n- 대중교통 캐시백 제외대상 : 시외버스, 고속버스"
+      },
+      {
+        "column": "카페",
+        "sub_column": "스타벅스, 투썸플레이스 20% 캐시백",
+        "description": "스타벅스, 투썸플레이스 20% 캐시백"
+      }
+    ]
+  }
+}

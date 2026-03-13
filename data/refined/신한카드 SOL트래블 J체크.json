@@ -1,0 +1,59 @@
+{
+  "card_name": "신한카드 SOL트래블 J체크",
+  "company": "신한카드",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/2847/card_img/42436/2847card_1.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/2847",
+  "fee": "국내전용 없음 해외겸용 없음",
+  "required_performance": 300000,
+  "benefits": [
+    {
+      "category": "여가비",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "해외 ATM 인출 수수료 면제",
+      "raw_description": "[해외 이용 서비스] 해외 ATM 이용 인출 수수료(건당 $3) 및 국제 브랜드 수수료(1%) 면제\n※ 전월 이용금액 관계없이 서비스가 제공됩니다.\n※ 횟수 제한은 없습니다.\n※ Master, Cirrus 표시가 있는 CD/ATM기에서 이용 가능합니다.\n※ ATM기기 운용사가 부과하는 ATM기기 이용수수료가 부과될 수 있습니다.\n※ IC카드 관련 유의사항\n- 국내 거래방식과 동일(4자리 체크카드 비밀번호 입력)\n- 단, 일부 ATM에서 6자리 비밀번호 요구 시 ‘4자리 비밀번호 + 00’ 입력\n- 비밀번호 변경 후 재발급하지 않은 IC카드는 변경 전 비밀번호를 입력해야 함.\n※ 해외 ATM 인출 한도는 신한카드 홈페이지를 참고하시기 바랍니다."
+    },
+    {
+      "category": "여가비",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 1,
+      "benefit_unit": "%",
+      "benefit_summary": "해외 대중교통 1% 할인",
+      "raw_description": "[해외 서비스 이용] 해외 대중교통 컨택리스 방식으로 이용 시 1% 결제일 할인\n- 해외 대중교통 : 버스, 지하철, 트램 등 - 월 3천원까지 할인\n※ 해외 대중교통 중 컨택리스 결제를 지원하는 대중교통에 한하여 결제일 할인 서비스가 제공되며, 택시 이용은 할인 대상에 포함되지 않습니다.\n※ 국내 컨택리스 결제는 할인 대상이 아닙니다.\n※ 전월 이용금액 관계없이 할인 서비스가 제공됩니다.\n※ 비교통 카드로 발급하여도, 해외 대중교통 컨택리스 방식으로 이용가능하며, 이용 시 1% 할인 서비스 제공됩니다.\n※ 할인 서비스 금액은 매입 시점의 신한은행 최초 고시 전신환 매도율로 원화로 환산되어 제공됩니다.\n(단, 환산된 원화의 소수점은 절사 처리되어 제공됩니다.)\n※ 할인 서비스 적용 금액은 결제일에 일괄 캐시백됩니다."
+    },
+    {
+      "category": "기타",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "해외 이용 수수료 면제",
+      "raw_description": "[해외 이용 서비스] 국제 브랜드 수수료(1%) / 해외 서비스 수수료(0.2%) 면제\n※ 전월 이용금액 관계없이 서비스가 제공됩니다.\n※ 해외 수수료 면제 한도는 없습니다.\n※ 해외 수수료 미부과 해외 거래 건의 경우 서비스 제외됩니다.\n※ 국제 브랜드사 정책 변경으로 수수료가 1% 초과 시 1% 까지만 국제 브랜드 수수료 면제 서비스가 적용됩니다.\n※ 해외가맹점 이용금액은 신한카드 전산상 해외가맹점에서 발생된 매출에 한합니다.\n※ 해외 이용 시 원화 거래는 불가합니다.\n(해외 가맹점에서 원화로 거래 시 추가 수수료가 부과되므로 신한카드 SOL트래블J 체크는 해외 원화거래를 지원하지 않습니다.)\n※ 외화결제계좌의 예치 가능 통화 외 통화로 결제 시 국제브랜드사에서 정한 환율에 따라 미달러(USD)로 환산되어 외화결제계좌 미달러(USD) 잔액에서 출금됩니다."
+    },
+    {
+      "category": "여가비",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 0,
+      "benefit_unit": "KRW",
+      "benefit_summary": "돈키호테/스타벅스 50% 할인",
+      "raw_description": "[일본 여행 서비스] 돈키호테/스타벅스 50% 할인"
+    },
+    {
+      "category": "생활비",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "편의점 5% 할인",
+      "raw_description": "[국내 이용 서비스] 국내 4대 편의점 5% 결제일 할인"
+    },
+    {
+      "category": "교통비",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 1,
+      "benefit_unit": "%",
+      "benefit_summary": "대중교통 1% 할인",
+      "raw_description": "[국내 이용 서비스] 국내 대중교통 1% 결제일 할인"
+    }
+  ]
+}

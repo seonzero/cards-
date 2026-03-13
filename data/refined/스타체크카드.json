@@ -1,0 +1,91 @@
+{
+  "card_name": "스타체크카드",
+  "company": "KB국민카드",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/351/card_img/20595/351card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/351",
+  "fee": "국내전용 없음 해외겸용 없음",
+  "required_performance": 200000,
+  "benefits": [
+    {
+      "category": "교통비",
+      "benefit_type": "discount_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "버스·지하철 5% 청구할인",
+      "raw_description": "버스·지하철 5% 청구할인\n- 교통이용금액 월 2만원까지 할인적용(최대 1천원할인)\n- 대중교통 할인 대상 : RF교통기관 업종(KB국민카드 가맹점 업종 기준)\n- 할인 제외 : 시외버스, 고속버스, 공항버스\n- 실적 조건 : 전월 이용실적 30만원 이상\n- 실제 카드이용일이 아닌 이메일 이용내역서상 기재된 이용일 기준으로 할인 제공 됩니다."
+    },
+    {
+      "category": "교통비",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 5000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "GS칼텍스 리터당 주중 50원",
+      "raw_description": "GS칼텍스 리터당 주중 50원, 주말 60원 환급할인\n- 주유금액기준 건당 이용금액 10만원까지 할인적용(LPG제외)\n* 단, 월간 30만원 이용금액까지 할인\n- 환급금액은 GS칼텍스 본사 휘발유 고시가 기준이며, 각 주유소별 유가 및 유류에 따라 할인액 차이가 발생할 수 있습니다.\n- GS칼텍스 비제휴 주유소 및 혼합판매점 이용 시 할인 적용 불가\n- 최초 발급 후 사용등록일로부터 30일 까지는 월간 통합할인한도 5천원 이내에서 할인 제공됩니다."
+    },
+    {
+      "category": "통신비",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 2500,
+      "benefit_unit": "KRW",
+      "benefit_summary": "이동통신요금 2,500원 환급할인",
+      "raw_description": "이동통신요금 2,500원 환급할인\n- 이동통신요금 자동납부 금액 5만원 이상 시 월1회 2천5백원 정액 할인(월 1회)\n- 제공조건 : 해당 카드로 3대 이동통신사(SKT, KT, LG U+) 자동이체 등록\n- 할인 제외 : 유무선 통신요금 통합 청구금액\n- 실적조건 : 전월 이용실적 30만원 이상"
+    },
+    {
+      "category": "여가비",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 3000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "CGV 3,000원 환급할인",
+      "raw_description": "CGV 3,000원 환급할인\n- 건당 7천원 이상 영화티켓 구매 시 할인 (월 2회 / 연 12회)\n- 제공조건 : 현장 구매 및 CGV 웹사이트(www.cgv.co.kr)·CGV 앱 결제\n- 할인제외 : 상품권 구매 / 매점 이용금액\n- 최초 발급 후 사용등록일로부터 30일 까지는 월간 통합할인한도 5천원 이내에서 할인 제공됩니다."
+    },
+    {
+      "category": "여가비",
+      "benefit_type": "discount_rate",
+      "benefit_value": 50,
+      "benefit_unit": "%",
+      "benefit_summary": "에버랜드 50% 환급할인",
+      "raw_description": "에버랜드 50% 환급할인\n- 건당 이용금액 3만원 이상, 최대 이용금액 5만원까지 할인적용 (1회 최대 할인금액 25,000원)\n- 제공조건 : 현장 티켓 구매\n- 할인제외 : 인터넷 예매\n- 최초 발급 후 사용등록일로부터 30일 까지는 월간 통합할인한도 5천원 이내에서 할인 제공됩니다."
+    },
+    {
+      "category": "쇼핑",
+      "benefit_type": "discount_rate",
+      "benefit_value": 3,
+      "benefit_unit": "%",
+      "benefit_summary": "G마켓·옥션 3% 환급할인",
+      "raw_description": "G마켓·옥션 3% 환급할인\n- 건당 이용금액 3만원 이상, 최대 이용금액 10만원까지 할인적용 (1회 최대 할인금액 3,000원)\n- 할인제외 : G마켓 일부 품목 (모바일결제, 여행상품 등)\n- 할인제외 : 옥션 제휴 링크사이트 일부 품목 (공연, 영화, 숙박, 모바일결제, Skype 등)\n- 최초 발급 후 사용등록일로부터 30일 까지는 월간 통합할인한도 5천원 이내에서 할인 제공됩니다."
+    },
+    {
+      "category": "생활비",
+      "benefit_type": "discount_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "올리브영 5% 환급할인",
+      "raw_description": "올리브영 5% 환급할인\n- 건당 이용금액 3만원 이상, 최대 이용금액 5만원까지 할인적용 (1회 최대 할인금액 2,500원)\n- 할인제외 : 상품권 구매 및 선불카드 구입·충전금액 / 백화점·대형할인점 입점 점포\n- 최초 발급 후 사용등록일로부터 30일 까지는 월간 통합할인한도 5천원 이내에서 할인 제공됩니다."
+    },
+    {
+      "category": "교육",
+      "benefit_type": "discount_rate",
+      "benefit_value": 3,
+      "benefit_unit": "%",
+      "benefit_summary": "교보문고 3% 환급할인",
+      "raw_description": "교보문고 3% 환급할인\n- 건당 이용금액 2만원 이상, 최대 이용금액 5만원까지 할인적용 (1회 최대 할인금액 1,500원)\n- 제공조건 : 현장구매 및 교보문고 홈페이지(www.kyobobook.co.kr)·교보문고 앱 결제\n- 할인 제외 : 핫트랙스 이용금액\n- 최초 발급 후 사용등록일로부터 30일 까지는 월간 통합할인한도 5천원 이내에서 할인 제공됩니다."
+    },
+    {
+      "category": "식비",
+      "benefit_type": "discount_rate",
+      "benefit_value": 10,
+      "benefit_unit": "%",
+      "benefit_summary": "아웃백·VIPS 10% 환급할인",
+      "raw_description": "아웃백·VIPS 10% 환급할인\n- 건당 이용금액 3만원 이상, 최대 이용금액 10만원까지 할인적용 (1회 최대 할인금액 10,000원)\n- 할인제외 : 상품권 구매 / 백화점·대형할인점 입점 점포\n- 최초 발급 후 사용등록일로부터 30일 까지는 월간 통합할인한도 5천원 이내에서 할인 제공됩니다."
+    },
+    {
+      "category": "기타",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 0,
+      "benefit_unit": null,
+      "benefit_summary": "통합할인한도",
+      "raw_description": ""
+    }
+  ]
+}

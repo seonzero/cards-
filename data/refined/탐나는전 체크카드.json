@@ -1,0 +1,43 @@
+{
+  "card_name": "탐나는전 체크카드",
+  "company": "KB국민카드",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/1572/card_img/22656/1572card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/1572",
+  "fee": "국내전용 없음",
+  "required_performance": 100000,
+  "benefits": [
+    {
+      "category": "기타",
+      "benefit_type": "mileage",
+      "benefit_value": 0.2,
+      "benefit_unit": "%",
+      "benefit_summary": "국내외 0.2% 포인트리",
+      "raw_description": "국내외 가맹점 0.2% 기본 포인트리 적립\n- 국내 외 가맹점 0.2% 기본 포인트리 적립\n- 해외이용금액 포함\n주말·공휴일 국내외 가맹점 0.2% 추가 포인트리 적립\n- 주말·공휴일 국내 외 가맹점에서 0.2% 추가 포인트리 적립\n- 적립제외 : 대중교통(버스·지하철) / 이동통신요금 자동납부 / 해외이용금액\n* 단, 택시는 추가 적립 가능합니다."
+    },
+    {
+      "category": "식비",
+      "benefit_type": "mileage",
+      "benefit_value": 0.2,
+      "benefit_unit": "%",
+      "benefit_summary": "음식점 0.2% 포인트리",
+      "raw_description": "음식점, 커피전문점 업종 0.2% 추가 포인트리 적립\n- 음식점 : 일반음식점, 한식, 중식, 일식, 양식, 뷔페, 패밀리레스토랑 업종\n- 커피 : 커피전문점 업종(스타벅스, 커피빈 등)"
+    },
+    {
+      "category": "교통비",
+      "benefit_type": "mileage",
+      "benefit_value": 0.2,
+      "benefit_unit": "%",
+      "benefit_summary": "대중교통 0.2% 포인트리",
+      "raw_description": "대중교통(버스·지하철), 택시 0.2% 추가 포인트리 적립\n- 대중교통 적립 대상 : RF교통기관 업종(KB국민카드 가맹점 업종 기준)\n- 적립제외 : 시외버스, 고속버스\n* 실제 카드이용일이 아닌 이메일 이용내역서상 기재된 이용일 기준으로 적립 적용됩니다."
+    },
+    {
+      "category": "통신비",
+      "benefit_type": "mileage",
+      "benefit_value": 0.2,
+      "benefit_unit": "%",
+      "benefit_summary": "통신요금 0.2% 포인트리",
+      "raw_description": "이동통신요금 0.2% 추가 포인트리 적립\n- 제공조건 : 이동통신요금(SKT, KT, LG U+) 자동납부 등록"
+    }
+  ]
+}

@@ -18,6 +18,14 @@ import os
 import argparse
 from pathlib import Path
 
+os.chdir("C:/Users/SSAFY/Desktop/cards-")  # 하드코딩
+
+
+import sys
+import io
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
+
 # ─────────────────────────────────────────
 # 설정
 # ─────────────────────────────────────────
@@ -27,15 +35,21 @@ DEFAULT_DB_URL = os.environ.get(
     "postgresql://postgres:password@localhost:5432/card_db"  # ← 여기 수정
 )
 
+REFINED_DIR = Path("data/refined")
+print("경로 확인:", REFINED_DIR.resolve())  # 임시 추가
+
 # ─────────────────────────────────────────
 # DB 연결
 # ─────────────────────────────────────────
 def get_connection(db_url: str):
-    try:
-        import psycopg2
-        return psycopg2.connect(db_url)
-    except ImportError:
-        raise ImportError("psycopg2가 없습니다. 'pip install psycopg2-binary' 실행 후 다시 시도하세요.")
+    import psycopg
+    return psycopg.connect(
+        host="localhost",
+        port=5432,
+        dbname="carddb",
+        user="carduser",
+        password="cardpass"
+    )
 
 # ─────────────────────────────────────────
 # 테이블 생성 (없으면)

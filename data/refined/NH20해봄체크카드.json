@@ -1,0 +1,115 @@
+{
+  "card_name": "NH20해봄체크카드",
+  "company": "NH농협카드",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/362/card_img/45717/362card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/362",
+  "fee": "국내전용 없음 해외겸용 없음",
+  "required_performance": 200000,
+  "benefits": [
+    {
+      "category": "여가비",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "인천 공항라운지 무료이용",
+      "raw_description": "해봄 선택 서비스_여행해봄/놀이해봄 Type 중 택1\n- 카드발급 신청시 택일 및 발급 후 변경 불가\n- 통합 월 할인한도와 별도 운영\n[여행해봄]\n인천 공항라운지 무료이용 서비스\n- 통합 월 1회, 연 2회 제공\n- 서비스 조건 : 전월 이용실적 50만원 이상 시 제공\n- 제1여객터미널: 마티나, 스카이허브\n- 제2여객터미널: 마티나(일반), SPC, 라운지L\n- 본 서비스는 카드 사용등록하신 달에는 제공되지 않으며 그 다음 달부터 서비스 조건 충족 시 제공 됩니다."
+    },
+    {
+      "category": "여가비",
+      "benefit_type": "discount_rate",
+      "benefit_value": 50,
+      "benefit_unit": "%",
+      "benefit_summary": "놀이공원 50% 현장할인",
+      "raw_description": "[놀이해봄]\n전국 놀이공원 할인\n- 통합 월 1회, 연 6회 제공\n- 서비스 조건 : 전월 이용실적 30만원 이상 시 제공\n- 에버랜드, 롯데월드, 서울랜드, 통도환타지아, 어뮤즈먼트(경주월드), 이월드(대구), 광주패밀리랜드, 한국민속촌(용인): 본인 자유이용권 50% 현장할인\n- 캐리비안베이, 캘리포니아비치(경주월드): 본인 입장료 30% 현장할인\n- 아쿠아환타지아(통도): 본인 및 동반 1인 입장료 30% 현장할인\n- 전주시 동물원: 본인 무료 입장(청구할인)\n- 본 서비스는 카드 사용등록하신 달에는 제공되지 않으며 그 다음 달부터 서비스 조건 충족 시 제공 됩니다."
+    },
+    {
+      "category": "쇼핑",
+      "benefit_type": "discount_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "온라인 쇼핑몰 5% 할인",
+      "raw_description": "[On-Line 서비스]\n온라인 쇼핑몰 5% 할인\n- G마켓, 옥션, 인터파크, 11번가, 농협몰\n- 건당 이용금액 2만원 이상 시 최대 2,500원 할인(월 최대 8,000원 할인)\n- 농협몰 : www.nonghyupmall.com"
+    },
+    {
+      "category": "쇼핑",
+      "benefit_type": "discount_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "온라인 서점 5% 할인",
+      "raw_description": "온라인 서점, 어학시험 5% 할인\n- 온라인 서점: YES24, 인터파크도서, 알라딘, 교보문고, 반디앤루니스, 영풍문고\n- 어학시험: 토익(스피킹), 텝스, JPT, KPE\n- 건당 이용금액 2만원 이상 시 최대 2,500원 할인(월 최대 8,000원 할인)※ 어학시험은 월 1회, 연 6회 제공"
+    },
+    {
+      "category": "교육",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "교육 콘텐츠 서비스 제공",
+      "raw_description": "인터넷/모바일 교육 콘텐츠 서비스 제공\n- 주요 콘텐츠 : 어학 (영어, 중국어, 일본어 등), 교양, 문화 강좌\n- 인터넷 : NH농협카드 채움스케치(www.cheumsketch.co.kr) 회원 가입 후 ▶ 교육 ▶ 플러스+ 에서 이용\n- 모바일 : NH농협카드 채움스케치(www.cheumsketch.co.kr) 회원 가입 후 ▶ 교육 에서 앱 전용 ID 발급 후 ▶ 구글 플레이스토어, 애플 앱스토어 에서 「NH농협카드 에듀스케치」 앱을 설치하여 이용\n- 본 서비스는 카드 사용등록하신 달에는 제공되지 않으며 그 다음 달부터 서비스 조건 충족 시 제공 됩니다."
+    },
+    {
+      "category": "여가비",
+      "benefit_type": "discount_rate",
+      "benefit_value": 2000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "CGV 온라인 예매 2,000원 할인",
+      "raw_description": "CGV 온라인 예매(홈페이지, 모바일앱) 2,000원 할인\n- 1만원 이상 결제 시 (월 1회)"
+    },
+    {
+      "category": "쇼핑",
+      "benefit_type": "discount_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "배달앱 5% 할인",
+      "raw_description": "배달앱 5% 할인\n- 배달의 민족, 요기요\n- 건당 이용금액 1만원 이상 시 최대 1,000원 할인 (월 최대 6,000원 할인)"
+    },
+    {
+      "category": "쇼핑",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 1000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "어플리케이션 1,000원 할인",
+      "raw_description": "어플리케이션 1,000원 할인\n- 애플 앱스토어, 구글 플레이스토어\n- 어플리케이션 가격이 1,000원 미만인 경우 결제된 금액까지 할인 (월 1회)\n- 해외 매출인 경우 가맹점이 ‘ITUNES' 또는 ’GOOGLE'로 매출이 발생한 건에 한함"
+    },
+    {
+      "category": "생활비",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 2500,
+      "benefit_unit": "KRW",
+      "benefit_summary": "자동납부 2,500원 할인",
+      "raw_description": "이동통신 자동납부 2,500원 할인\n- SK텔레콤, KT, LGU+ ※ 알뜰폰 통신사는 제외\n- 5만원 이상 결제 시 (월 1건)"
+    },
+    {
+      "category": "뷰티",
+      "benefit_type": "discount_rate",
+      "benefit_value": 20,
+      "benefit_unit": "%",
+      "benefit_summary": "커피 20% 할인",
+      "raw_description": "커피 20% 할인\n- 스타벅스, 이디야\n- 건당 이용금액 1만원 이상 시 (월 최대 3,000원 할인)\n- 스타벅스는 사이렌 오더 결제건도 할인 혜택 적용"
+    },
+    {
+      "category": "생활비",
+      "benefit_type": "discount_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "GS25 5% 할인",
+      "raw_description": "GS25 5% 할인\n- 건당 이용금액 1만원 이상 시 최대 1,000원 할인 (월 최대 3,000원 할인)\n- 단 가두매장에 한하며, 백화점, 할인점, 쇼핑몰 내 입점매장은 할인서비스가 제외 될 수 있음"
+    },
+    {
+      "category": "교통비",
+      "benefit_type": "discount_rate",
+      "benefit_value": 10,
+      "benefit_unit": "%",
+      "benefit_summary": "대중교통 10% 할인",
+      "raw_description": "대중교통(버스/지하철) 10% 할인\n- 각 교통사업자별 월 이용금액이 2만원 이상 시 (월 최대 3,000원 할인)\n- 후불교통 이용건이며, 시외 · 고속버스는 제외됨"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "discount_rate",
+      "benefit_value": 1,
+      "benefit_unit": "%",
+      "benefit_summary": "해외 이용금액 1% 할인",
+      "raw_description": "해외 전가맹점 (해외직구 포함) 이용금액 1% 할인\n- 건당 이용금액 2만원 이상 시\n- 통합 월 할인한도와 별도로 월 최대 10만원 할인"
+    }
+  ]
+}

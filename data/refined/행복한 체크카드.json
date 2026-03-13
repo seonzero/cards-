@@ -1,0 +1,51 @@
+{
+  "card_name": "행복한 체크카드",
+  "company": "우체국",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/585/card_img/21340/585card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/585",
+  "fee": "해외겸용 없음",
+  "required_performance": 300000,
+  "benefits": [
+    {
+      "category": "의료",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 10,
+      "benefit_unit": "%",
+      "benefit_summary": "병원 10% 캐시백",
+      "raw_description": "병원·의원, 모든 약국 10% 캐시백\n- 종합병원, 일반병원, 한방병원, 치과병원, 일반의원, 한의원, 치과의원\n* 단, 조산원, 산후조리원, 동물병원, 건강진단, 한약방, 기타 의료기관 제외\n- 월 4회"
+    },
+    {
+      "category": "교육",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 10,
+      "benefit_unit": "%",
+      "benefit_summary": "학원 10% 캐시백",
+      "raw_description": "학원 10% 캐시백\n- 예체능학원, 외국어학원, 보습학원(온라인결제 제외)"
+    },
+    {
+      "category": "식비",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 10,
+      "benefit_unit": "%",
+      "benefit_summary": "마트 10% 캐시백",
+      "raw_description": "마트 10% 캐시백\n- 이마트, 홈플러스, 롯데마트 / 월2회\n*온라인 결제 및 SSM(이마트 에브리데이, 홈플러스 익스프레스, 롯데슈퍼) 제외"
+    },
+    {
+      "category": "여가비",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 10,
+      "benefit_unit": "%",
+      "benefit_summary": "문화 10% 캐시백",
+      "raw_description": "문화 10% 캐시백\n- 인터파크, YES24 온라인 공연예매"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 12,
+      "benefit_unit": "%",
+      "benefit_summary": "우편서비스 12% 캐시백",
+      "raw_description": "우체국 서비스\n- 순수 우편서비스 12% · 우체국쇼핑 10% 캐시백\n* 순수 우편서비스 이용 금액은 실적에서 제외 (순수 우편서비스 : 우편, 택배, EMS, 우표구매 등)\n우체국쇼핑 5% 추가 할인\n- 할인금액은 우체국쇼핑 할인쿠폰으로 제공\n- 해당품목 우체국 쇼핑 홈페이지 (mall.epost.go.kr)참조\n그린서비스\n- 지자체 시설 무료입장 및 할인, 에코머니 적립 등\n*자세한 사항은 에코머니 홈페이지(www.ecomoney.co.kr)참고 또는 고객센터(1566-2929)로 문의"
+    }
+  ]
+}

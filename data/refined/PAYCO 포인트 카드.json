@@ -1,0 +1,43 @@
+{
+  "card_name": "PAYCO 포인트 카드",
+  "company": "엔에이치엔페이코",
+  "card_type": "신용",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/2310/card_img/37661/2310card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/2310",
+  "fee": "해외겸용 없음",
+  "required_performance": 0,
+  "benefits": [
+    {
+      "category": "기타",
+      "benefit_type": "mileage",
+      "benefit_value": 1,
+      "benefit_unit": "%",
+      "benefit_summary": "온라인 1% 적립",
+      "raw_description": "전월 실적 / 연회비 없이 온라인 1% · 오프라인 최대 1% 적립\n- 카드 소지자 페이코 앱 결제시 온라인 1%, 오프라인 1% 적립 가능합니다.\n- 실물카드 오프라인 결제시 0.3% 적립됩니다. (단, 타사 간편결제 이용 제외)"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "mileage",
+      "benefit_value": 10,
+      "benefit_unit": "%",
+      "benefit_summary": "최대 10% 적립",
+      "raw_description": "매월 바뀌는 브랜드에서 건당 최대 10% 적립"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "discount_rate",
+      "benefit_value": 15,
+      "benefit_unit": "%",
+      "benefit_summary": "최대 15% 할인",
+      "raw_description": "매월 바뀌는 브랜드에서 건당 최대 15% 할인"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "ATM 출금 월 2회 무료",
+      "raw_description": "해외결제, 포인트결제 소득공제, ATM 출금 월 2회 무료, 교통카드 기능\n- 해외겸용 신청 가능\n- 해외 결제 시, 해외 브랜드(1.1%) 및 이용 수수료(0.25%) 면제\n- 해외 ATM 출금 시, 건별 수수료 $3 면제 (단, 해외브랜드수수료는 1.1% 부과)\n- 유상 포인트 결제 소득공제율 30%\n- 티머니 선불 교통카드 기능"
+    }
+  ]
+}

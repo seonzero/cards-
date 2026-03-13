@@ -20,10 +20,11 @@ load_dotenv()
 # ─────────────────────────────────────────
 # 설정
 # ─────────────────────────────────────────
-INPUT_FILE  = "card_data_imageTest3.json"
+INPUT_FILE  = "card_check_top100.json"
 REFINED_DIR = Path("data/refined")
 FAILED_DIR  = Path("data/failed")
 LOG_FILE    = Path("logs/parse_result.json")
+OUTPUT_FILE = Path("data/refined/cards_refined.json") 
 
 # 폴더 없으면 자동 생성
 REFINED_DIR.mkdir(parents=True, exist_ok=True)
@@ -107,6 +108,9 @@ def build_user_prompt(card: dict) -> str:
 - card_type: card_name에 "체크"가 있으면 "체크", 없으면 "신용"
 
 ## 변환할 카드 데이터
+for detail in card.get("benefit_details", []):
+    if len(detail.get("description", "")) > 500:
+        detail["description"] = detail["description"][:500]
 {json.dumps(card, ensure_ascii=False, indent=2)}
 """
 
@@ -282,6 +286,19 @@ def main(input_file: str):
     if results["failed"]:
         print(f"  실패 목록: {results['failed']}")
     print(f"{'='*50}")
+
+    # 전체 정제 결과를 파일 하나로 합치기
+    all_refined = []
+    for card_name in results["success"] + results["skip"]:
+        f = REFINED_DIR / f"{card_name}.json"
+        if f.exists():
+            all_refined.append(json.loads(f.read_text(encoding="utf-8")))
+    
+    OUTPUT_FILE.write_text(
+        json.dumps(all_refined, ensure_ascii=False, indent=2),
+        encoding="utf-8"
+    )
+    print(f"통합 파일 저장됨: {OUTPUT_FILE} ({len(all_refined)}개)")
 
     # 로그 저장
     LOG_FILE.parent.mkdir(exist_ok=True)

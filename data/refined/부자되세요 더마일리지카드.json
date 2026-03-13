@@ -1,0 +1,51 @@
+{
+  "card_name": "부자되세요 더마일리지카드",
+  "company": "제주은행",
+  "card_type": "신용",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/2170/card_img/21817/2170card.gif",
+  "source_url": "https://www.card-gorilla.com/card/detail/2170",
+  "fee": "없음",
+  "required_performance": 300000,
+  "benefits": [
+    {
+      "category": "쇼핑",
+      "benefit_type": "discount_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "온라인몰 5% 청구 할인",
+      "raw_description": "5개 온라인몰 5% 청구 할인"
+    },
+    {
+      "category": "통신비",
+      "benefit_type": "discount_rate",
+      "benefit_value": 3,
+      "benefit_unit": "%",
+      "benefit_summary": "이동통신요금 3% 청구 할인",
+      "raw_description": "이동통신요금 3% 청구 할인"
+    },
+    {
+      "category": "여가비",
+      "benefit_type": "mileage",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "대한항공 마일리지 적립",
+      "raw_description": "대한항공 스카이패스 마일리지 적립 서비스"
+    },
+    {
+      "category": "여가비",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 3000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "영화관 최대 3천원 청구 할인",
+      "raw_description": "영화관 최대 3천원 청구 할인"
+    },
+    {
+      "category": "식비",
+      "benefit_type": "discount_rate",
+      "benefit_value": 20,
+      "benefit_unit": "%",
+      "benefit_summary": "패밀리레스토랑 20% 할인",
+      "raw_description": "패밀리레스토랑(VIPS) 20% 청구 할인\n커피전문점 20% 청구 할인"
+    }
+  ]
+}
