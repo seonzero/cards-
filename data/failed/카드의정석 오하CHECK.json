@@ -1,6 +1,6 @@
 {
   "card_name": "카드의정석 오하CHECK",
-  "error": "검증 실패: [\"benefits[3] 잘못된 category: '카페'\", \"benefits[4] 잘못된 category: '배달앱'\"]",
+  "error": "Expecting value: line 1 column 1 (char 0)",
   "raw_card": {
     "card_name": "카드의정석 오하CHECK",
     "company": "우리카드",

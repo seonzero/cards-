@@ -1,6 +1,6 @@
 {
   "card_name": "라이프+플러스 체크카드",
-  "error": "'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte",
+  "error": "HTTP Error 401: Unauthorized",
   "raw_card": {
     "card_name": "라이프+플러스 체크카드",
     "company": "우체국",

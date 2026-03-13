@@ -1,6 +1,6 @@
 {
   "card_name": "달달 하나 체크카드",
-  "error": "Expecting value: line 1 column 1 (char 0)",
+  "error": "HTTP Error 401: Unauthorized",
   "raw_card": {
     "card_name": "달달 하나 체크카드",
     "company": "하나카드",

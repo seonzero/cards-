@@ -1,0 +1,75 @@
+{
+  "card_name": "라이프+플러스 체크카드",
+  "company": "우체국",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/575/card_img/21312/575card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/575",
+  "fee": "해외겸용 없음",
+  "required_performance": 300000,
+  "benefits": [
+    {
+      "category": "기타",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "캐시백형 서비스",
+      "raw_description": "생활 속 혜택을 더해주는 캐시백형\n- 혜택을 현금으로 돌려받는 캐시백형\n여행 라이프를 위한 UniMile(유니마일)적립형\n- 6대 저비용 항공사에서 포인트로 이용하는 유니마일 적립형"
+    },
+    {
+      "category": "쇼핑",
+      "benefit_type": "discount_rate",
+      "benefit_value": 10,
+      "benefit_unit": "%",
+      "benefit_summary": "온라인 쇼핑 10% 할인",
+      "raw_description": "[국내 서비스]\n온라인 쇼핑 10%\n- G마켓, 옥션, 11번가, 쿠팡\n* 건당 이용금액 3만원 이상 시 제공\n홈쇼핑 10%\n- CJ오쇼핑, GS SHOP, 현대홈쇼핑, 롯데홈쇼핑, NS홈쇼핑, 홈앤쇼핑, 공영홈쇼핑\n* 건당 이용금액 5만원 이상 시 제공\n* 온라인 / 모바일앱 이용건 포함 (CJ Mall등)"
+    },
+    {
+      "category": "생활비",
+      "benefit_type": "discount_rate",
+      "benefit_value": 10,
+      "benefit_unit": "%",
+      "benefit_summary": "대형마트 10% 할인",
+      "raw_description": "[국내 서비스]\n대형마트 10%\n- 이마트, 롯데마트, 홈플러스, 농협하나로마트 / 클럽\n* 건당 이용금액 3만원 이상 시 월 2회 제공, 오프라인 한정\n편의점 10%\n- GS25, CU, 이마트24\n* 월 2회 제공"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "discount_rate",
+      "benefit_value": 10,
+      "benefit_unit": "%",
+      "benefit_summary": "반려동물 10% 할인",
+      "raw_description": "[국내 서비스]\n반려동물 10%\n- 동물병원, 애완동물 관련\n* BC카드 가맹점 업종 기준 적용. 해당 업종으로 등록되지 않은 가맹점에서 이용 시 서비스 미제공"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "discount_rate",
+      "benefit_value": 10,
+      "benefit_unit": "%",
+      "benefit_summary": "레저/스포츠 10% 할인",
+      "raw_description": "[국내 서비스]\n레저/스포츠 10%\n- 골프경기장, 골프연습장, 스크린골프, 볼링장, 테니스장, 수영장, 당구장, 헬스클럽\n* BC카드 가맹점 업종 기준 적용. 해당 업종으로 등록되지 않은 가맹점에서 이용 시 서비스 미제공"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "우체국 5% 캐시백",
+      "raw_description": ""
+    },
+    {
+      "category": "기타",
+      "benefit_type": "cashback_rate",
+      "benefit_value": 1,
+      "benefit_unit": "%",
+      "benefit_summary": "해외 전 가맹점 1% 캐시백",
+      "raw_description": ""
+    },
+    {
+      "category": "기타",
+      "benefit_type": "mileage",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "UniMile(유니마일) 플랫폼 서비스",
+      "raw_description": ""
+    }
+  ]
+}

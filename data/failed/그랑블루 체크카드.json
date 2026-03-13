@@ -1,6 +1,6 @@
 {
   "card_name": "그랑블루 체크카드",
-  "error": "검증 실패: [\"benefits[6] 잘못된 category: '푸드'\"]",
+  "error": "Expecting value: line 1 column 1 (char 0)",
   "raw_card": {
     "card_name": "그랑블루 체크카드",
     "company": "우리카드",

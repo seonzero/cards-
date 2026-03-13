@@ -1,6 +1,6 @@
 {
   "card_name": "더나은 체크카드",
-  "error": "검증 실패: [\"benefits[2] 잘못된 category: '카페'\"]",
+  "error": "Expecting value: line 1 column 1 (char 0)",
   "raw_card": {
     "card_name": "더나은 체크카드",
     "company": "MG새마을금고",

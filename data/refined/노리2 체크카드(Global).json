@@ -1,0 +1,91 @@
+{
+  "card_name": "노리2 체크카드(Global)",
+  "company": "KB국민카드",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/2423/card_img/27142/2423card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/2423",
+  "fee": "국내전용 없음 해외겸용 없음",
+  "required_performance": 200000,
+  "benefits": [
+    {
+      "category": "식비",
+      "benefit_type": "discount_rate",
+      "benefit_value": 10,
+      "benefit_unit": "%",
+      "benefit_summary": "카페 10% 할인",
+      "raw_description": "[일상] 스타벅스, 커피빈 10% 할인\n- 전월 이용실적 조건 없음\n- 건당 이용조건 없음\n- 월 할인한도 : 3천원 (월 3만원 이용금액까지 할인)\n- 스타벅스는 사이렌오더 결제 포함\n- 할인제외 : 상품권/선불카드(선불전자지급수단 포함) 구입 및 충전, 백화점, 대형마트, 철도·역사, 호텔 등에 입점한 가맹점 등\n- 본인회원 기준으로 월간 통합할인한도 내에서 혜택이 제공됩니다."
+    },
+    {
+      "category": "기타",
+      "benefit_type": "discount_rate",
+      "benefit_value": 10,
+      "benefit_unit": "%",
+      "benefit_summary": "게임 10% 할인",
+      "raw_description": "[일상] 구글플레이스토어, 앱스토어 10% 할인\n- 전월 이용실적 20만원 이상 시 제공\n- 건당 이용조건 없음\n- 월 할인한도 : 5천원 (월 5만원 이용금액까지 할인)\n- 가맹점명이 '구글플레이스토어', '앱스토어'로 등록된 KB국민카드 가맹점에 한하여 제공\n- 본인회원 기준으로 월간 통합할인한도 내에서 혜택이 제공됩니다."
+    },
+    {
+      "category": "기타",
+      "benefit_type": "discount_rate",
+      "benefit_value": 10,
+      "benefit_unit": "%",
+      "benefit_summary": "공연 티켓 10% 할인",
+      "raw_description": "[일상] 인터파크 티켓 10% 할인\n- 전월 이용실적 20만원 이상 시 제공\n- 건당 이용조건 없음\n- 월 할인한도 : 7천원 (월 7만원 이용금액까지 할인)\n- 공연 티켓 예매 시에만 제공\n- 본인회원 기준으로 월간 통합할인한도 내에서 혜택이 제공됩니다."
+    },
+    {
+      "category": "뷰티",
+      "benefit_type": "discount_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "미용실 5% 할인",
+      "raw_description": "[일상] 올리브영, 미용실 업종 5% 할인\n- 전월 이용실적 20만원 이상 시 제공\n- 건당 이용조건 없음\n- 월 할인한도 : 2천원 (월 4만원 이용금액까지 할인)\n- KB국민카드 업종 분류 기준에 따라 지정 업종에 한하여 적용\n- 본인회원 기준으로 월간 통합할인한도 내에서 혜택이 제공됩니다."
+    },
+    {
+      "category": "식비",
+      "benefit_type": "discount_rate",
+      "benefit_value": 5,
+      "benefit_unit": "%",
+      "benefit_summary": "편의점 5% 할인",
+      "raw_description": "[일상] GS25, CU 5% 할인\n- 전월 이용실적 20만원 이상 시 제공\n- 건당 이용조건 없음\n- 월 할인한도 : 2천원 (월 4만원 이용금액까지 할인)\n- 할인제외: 상품권/선불카드(선불전자지급수단 포함) 구입 및 충전 금액\n- 본인회원 기준으로 월간 통합할인한도 내에서 혜택이 제공됩니다."
+    },
+    {
+      "category": "통신비",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 2500,
+      "benefit_unit": "KRW",
+      "benefit_summary": "통신요금 2,500원 할인",
+      "raw_description": "[일상] SKT, KT, LG U+, Liiv M 2,500원 할인\n- 전월 이용실적 20만원 이상 시 제공\n- 통신요금 5만원 이상 이용 시 제공\n- 이동통신요금 자동이체 납부금액 기준 제공\n- 월 할인횟수: 1회 (월 할인한도 2천5백원 이내 제공)\n- 본인회원 기준으로 월간 통합할인한도 내에서 혜택이 제공됩니다."
+    },
+    {
+      "category": "기타",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 1000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "넷플릭스 1,000원 할인",
+      "raw_description": "[일상]넷플릭스, 유튜브프리미엄 1,000원 할인\n- 전월 이용실적 20만원 이상 시 제공\n- 건당 1만원 이상 이용 시 제공\n- 월 할인횟수: 2회 (월 할인한도 2천원 이내 제공)\n- 본인회원 기준으로 월간 통합할인한도 내에서 혜택이 제공됩니다."
+    },
+    {
+      "category": "식비",
+      "benefit_type": "cashback_fixed",
+      "benefit_value": 1000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "배달의 민족 1,000원 할인",
+      "raw_description": "[일상] 배달의 민족, 요기요 1,000원 할인\n- 전월 이용실적 20만원 이상 시 제공\n- 건당 1만원 이상 이용 시 제공\n- 월 할인횟수: 1회 (월 할인한도 1천원 이내 제공)\n- 본인회원 기준으로 월간 통합할인한도 내에서 혜택이 제공됩니다."
+    },
+    {
+      "category": "기타",
+      "benefit_type": "discount_rate",
+      "benefit_value": 2,
+      "benefit_unit": "%",
+      "benefit_summary": "해외 가맹점 2% 할인",
+      "raw_description": "[Global] 해외 가맹점 2% 할인"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "공항라운지 무료",
+      "raw_description": "[Global] 공항라운지 더라운지멤버스"
+    }
+  ]
+}

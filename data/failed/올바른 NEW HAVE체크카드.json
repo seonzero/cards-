@@ -1,6 +1,6 @@
 {
   "card_name": "올바른 NEW HAVE체크카드",
-  "error": "Extra data: line 1 column 14 (char 13)",
+  "error": "HTTP Error 401: Unauthorized",
   "raw_card": {
     "card_name": "올바른 NEW HAVE체크카드",
     "company": "NH농협카드",

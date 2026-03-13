@@ -1,0 +1,59 @@
+{
+  "card_name": "꿀카드",
+  "company": "MG새마을금고",
+  "card_type": "신용",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/2001/card_img/21997/2001card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/2001",
+  "fee": "국내전용 없음",
+  "required_performance": 0,
+  "benefits": [
+    {
+      "category": "기타",
+      "benefit_type": "discount_rate",
+      "benefit_value": 2900,
+      "benefit_unit": "KRW",
+      "benefit_summary": "쿠팡 멤버십 2,900원 할인",
+      "raw_description": "쿠팡 로켓와우 멤버십 자동납부 정기결제 시 최대 2,900원 할인\n- 전월 이용실적 10만원 이상 시 제공\n- 월 1회 제공\n- 정기결제로 자동납부한 경우에만 할인캐시백 적용..."
+    },
+    {
+      "category": "기타",
+      "benefit_type": "discount_rate",
+      "benefit_value": 2000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "OTT 서비스 2천원 할인",
+      "raw_description": "NETFLIX, YouTube Premium 자동납부 정기결제 시 2천원 할인\n- 건당 이용금액 1만원 이상 시 제공\n- 전월 이용실적 20만원 이상 시 제공..."
+    },
+    {
+      "category": "기타",
+      "benefit_type": "discount_rate",
+      "benefit_value": 1000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "음원 스트리밍 1천원 할인",
+      "raw_description": "멜론, 지니뮤직, 벅스뮤직 자동납부 정기결제 시 1천원 할인\n- 건당 이용금액 4천원 이상 시 제공\n- 전월 이용실적 20만원 이상 시 제공..."
+    },
+    {
+      "category": "기타",
+      "benefit_type": "discount_rate",
+      "benefit_value": 1000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "간편결제 1천원 할인",
+      "raw_description": "<간편결제>, <쇼핑>, <배달앱> 결제 시 1천원 할인\n- <간편결제> 카카오페이, 네이버페이, PAYCO\n- <쇼핑> 쿠팡, 마켓컬리, 헬로네이처, 11번가..."
+    },
+    {
+      "category": "기타",
+      "benefit_type": "discount_rate",
+      "benefit_value": 1000,
+      "benefit_unit": "KRW",
+      "benefit_summary": "UNTACT 결제 1천원 할인(배달앱)",
+      "raw_description": ""
+    },
+    {
+      "category": "기타",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "해외이용 수수료 면제",
+      "raw_description": ""
+    }
+  ]
+}

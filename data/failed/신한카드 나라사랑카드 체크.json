@@ -1,6 +1,6 @@
 {
   "card_name": "신한카드 나라사랑카드 체크",
-  "error": "Expecting value: line 1 column 1 (char 0)",
+  "error": "HTTP Error 401: Unauthorized",
   "raw_card": {
     "card_name": "신한카드 나라사랑카드 체크",
     "company": "신한카드",

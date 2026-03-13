@@ -1,6 +1,6 @@
 {
   "card_name": "라이언 치즈 체크카드",
-  "error": "검증 실패: [\"benefits[0] 잘못된 category: '카페'\", \"benefits[1] 잘못된 category: '카페'\", \"benefits[2] 잘못된 category: '편의점'\", \"benefits[3] 잘못된 category: '편의점'\", \"benefits[4] 잘못된 category: '영화'\", \"benefits[5] 잘못된 category: '영화'\", \"benefits[6] 잘못된 category: '온라인쇼핑'\", \"benefits[7] 잘못된 category: '온라인쇼핑'\"]",
+  "error": "검증 실패: [\"benefits[0] 잘못된 category: '카페'\", \"benefits[1] 잘못된 category: '카페'\", \"benefits[2] 잘못된 category: '편의점'\", \"benefits[3] 잘못된 category: '편의점'\"]",
   "raw_card": {
     "card_name": "라이언 치즈 체크카드",
     "company": "NH농협카드",

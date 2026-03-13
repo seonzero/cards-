@@ -1,6 +1,6 @@
 {
   "card_name": "노리2 체크카드(Global)",
-  "error": "검증 실패: [\"benefits[8] 잘못된 benefit_type: 'discount_fixed'\"]",
+  "error": "HTTP Error 401: Unauthorized",
   "raw_card": {
     "card_name": "노리2 체크카드(Global)",
     "company": "KB국민카드",

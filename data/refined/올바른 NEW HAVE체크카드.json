@@ -1,0 +1,43 @@
+{
+  "card_name": "올바른 NEW HAVE체크카드",
+  "company": "NH농협카드",
+  "card_type": "체크",
+  "image_url": "https://d1c5n4ri2guedi.cloudfront.net/card/1765/card_img/22348/1765card.png",
+  "source_url": "https://www.card-gorilla.com/card/detail/1765",
+  "fee": "국내전용 없음 해외겸용 없음",
+  "required_performance": 0,
+  "benefits": [
+    {
+      "category": "기타",
+      "benefit_type": "mileage",
+      "benefit_value": 0.2,
+      "benefit_unit": "%",
+      "benefit_summary": "국내외 0.2% NH포인트 적립",
+      "raw_description": "국내외 이용가맹점 0.2% NH포인트 적립"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "mileage",
+      "benefit_value": 300,
+      "benefit_unit": "%",
+      "benefit_summary": "이용금액 1위/2위 3배/2배 적립",
+      "raw_description": "6개 영역 중 당월(1일~말일) 이용금액 1위/2위 영역은 기본적립의 3배/2배 자동적용\n* 이외 영역 및 기타 이용금액은 기본적립만 제공\n지하철, 시내외버스 / 택시\n*대중교통은 실물카드 후불교통(RF) 결제건에 한함\n스타벅스, 이디야, 투썸플레이스 / GS25, CU, 세븐일레븐\n*스타벅스는 사이렌오더 포함\n* 잡화/커피/편의점의 경우 역사, 백화점 및 할인점(아울렛) 입점매장 결제건은 이용금액 산정 및 적립 대상에서 제외\n* 상품권 및 선불카드류구매(충전 포함), 거래취소금액, 포인트(전부/일부)결제 시 포인트 사용분, 무이자 할부(무이자 할부 행사 및 우수고객 무이자 할부 지원 포함) 결제건은 이용금액 산정 및 적립 대상에서 제외\n* 해외 및 교통카드 이용금액, 통신료 자동이체금액은 매출표 접수일 기준으로 이용금액 산정 및 적립 적용\n- 기본적립과 별개로 추가적립은 이용월 익월 15일 이후에 일괄 적립되며,적립내역은 홈페이지에서 확인 가능합니다.\n- 영역별 이용금액이 동일한 경우 영역 번호(①~⑥)순으로 순위가 적용됩니다.\n- 전월실적: 20만원 이상\n- 월 적립한도: 5천 NH포인트\n* 전월실적 조건 및 적립한도는 추가적립에 대해서만 적용"
+    },
+    {
+      "category": "여가비",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "국제공항 라운지 무료 이용",
+      "raw_description": "국제공항 라운지 무료이용\n- 인천국제공항 : 마티나 일반, 스카이허브, SPC라운지, 롯데라운지L\n- 김포/김해국제공항 : 스카이허브\n- 연 1회 제공"
+    },
+    {
+      "category": "기타",
+      "benefit_type": "free_service",
+      "benefit_value": null,
+      "benefit_unit": null,
+      "benefit_summary": "이체 수수료 월 5회 면제",
+      "raw_description": "농협 인터넷·모바일·스마트·텔레뱅킹 이체수수료 통합 월 5회 면제"
+    }
+  ]
+}

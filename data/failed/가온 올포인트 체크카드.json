@@ -1,6 +1,6 @@
 {
   "card_name": "가온 올포인트 체크카드",
-  "error": "검증 실패: [\"benefits[1] 잘못된 category: '카페/디저트'\"]",
+  "error": "HTTP Error 401: Unauthorized",
   "raw_card": {
     "card_name": "가온 올포인트 체크카드",
     "company": "KB국민카드",

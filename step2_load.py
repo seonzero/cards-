@@ -18,9 +18,6 @@ import os
 import argparse
 from pathlib import Path
 
-os.chdir("C:/Users/SSAFY/Desktop/cards-")  # 하드코딩
-
-
 import sys
 import io
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
@@ -32,7 +29,7 @@ sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
 REFINED_DIR  = Path("data/refined")
 DEFAULT_DB_URL = os.environ.get(
     "DATABASE_URL",
-    "postgresql://postgres:password@localhost:5432/card_db"  # ← 여기 수정
+    "postgresql://carduser:cardpass@localhost:5432/carddb"  # card_db → carddb
 )
 
 REFINED_DIR = Path("data/refined")
@@ -45,7 +42,7 @@ def get_connection(db_url: str):
     import psycopg
     return psycopg.connect(
         host="localhost",
-        port=5432,
+        port=5433,
         dbname="carddb",
         user="carduser",
         password="cardpass"

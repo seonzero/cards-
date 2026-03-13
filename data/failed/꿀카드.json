@@ -1,6 +1,6 @@
 {
   "card_name": "꿀카드",
-  "error": "Expecting value: line 1 column 1 (char 0)",
+  "error": "HTTP Error 401: Unauthorized",
   "raw_card": {
     "card_name": "꿀카드",
     "company": "MG새마을금고",

@@ -1,6 +1,6 @@
 {
   "card_name": "Young Hana+ 체크카드",
-  "error": "검증 실패: [\"benefits[1] 잘못된 category: '편의비'\"]",
+  "error": "HTTP Error 401: Unauthorized",
   "raw_card": {
     "card_name": "Young Hana+ 체크카드",
     "company": "하나카드",

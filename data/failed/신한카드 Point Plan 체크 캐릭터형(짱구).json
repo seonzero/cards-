@@ -1,6 +1,6 @@
 {
   "card_name": "신한카드 Point Plan 체크 캐릭터형(짱구)",
-  "error": "'utf-8' codec can't decode byte 0xa9 in position 0: invalid start byte",
+  "error": "Expecting value: line 1 column 1 (char 0)",
   "raw_card": {
     "card_name": "신한카드 Point Plan 체크 캐릭터형(짱구)",
     "company": "신한카드",
